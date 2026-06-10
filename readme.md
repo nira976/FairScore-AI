@@ -1,3 +1,10 @@
+## 🚀 Live Demo
+
+Try FairScore AI here:
+
+https://nira976-fairscore-ai-appstreamlit-app-5oe0e3.streamlit.app/
+
+
 # 💳 FairScore AI
 
 An Explainable Credit Risk Assessment Platform for Gig Economy Workers using Machine Learning and Explainable AI.
