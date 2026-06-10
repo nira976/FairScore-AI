@@ -4,7 +4,6 @@ import pandas as pd
 import time
 import shap
 import numpy as np
-from pathlib import Path
 # ---------------------------
 # Page Configuration
 # ---------------------------
@@ -59,9 +58,7 @@ st.markdown("""
 # ---------------------------
 # Load Model
 # ---------------------------
-BASE_DIR = Path(__file__).resolve().parent.parent
-
-model = joblib.load(BASE_DIR / "models" / "fairscore_xgb_model.pkl")
+model = joblib.load("C:\Users\Niraja\fairscore_xgb_model.pkl")
 explainer = shap.TreeExplainer(model)
 # ---------------------------
 # Mappings
