@@ -1,0 +1,1001 @@
+worker_type,monthly_income,income_stability,customer_rating,savings_ratio,upi_transactions,bill_payment_score,emi_defaults,spending_volatility,employment_duration,existing_debt_ratio,platform_dependency,emergency_fund_months,financial_health_score,risk_category
+Ride Share Driver,40491,6,4.9,0.32,420,64,4,1,41,0.44,31,7,59,Moderate Risk
+Content Creator,141410,7,4.6,0.14,188,99,3,8,23,0.27,93,11,87,Low Risk
+Freelancer,16750,6,4.5,0.35,329,85,5,10,7,0.77,39,1,40,High Risk
+Ride Share Driver,25319,5,4.9,0.37,63,57,3,4,56,0.44,69,4,57,Moderate Risk
+Delivery Partner,39771,8,4.6,0.35,117,64,3,3,23,0.05,55,5,77,Low Risk
+Delivery Partner,43064,6,4.6,0.02,280,52,5,7,44,0.51,88,9,34,High Risk
+Delivery Partner,45935,7,4.5,0.32,128,96,5,2,25,0.47,56,7,68,Moderate Risk
+Freelancer,27182,3,4.4,0.17,302,62,0,8,27,0.72,31,7,58,Moderate Risk
+Ride Share Driver,48921,7,3.6,0.35,391,90,3,6,41,0.52,59,4,67,Moderate Risk
+Freelancer,23820,8,3.9,0.26,362,83,4,7,6,0.28,73,8,72,Moderate Risk
+Delivery Partner,33023,9,5.0,0.34,123,73,4,5,55,0.77,21,3,44,High Risk
+Content Creator,147809,7,4.7,0.2,275,89,1,9,34,0.64,69,11,80,Low Risk
+Freelancer,40510,4,4.0,0.22,398,81,5,5,9,0.5,60,8,56,Moderate Risk
+Delivery Partner,37945,8,3.8,0.07,225,81,0,5,60,0.23,64,10,87,Low Risk
+Delivery Partner,27374,9,4.1,0.32,354,79,4,3,49,0.3,28,6,69,Moderate Risk
+Delivery Partner,48907,6,3.9,0.17,62,98,2,1,33,0.54,81,5,69,Moderate Risk
+Delivery Partner,49524,8,4.2,0.21,372,62,0,2,51,0.06,66,3,78,Low Risk
+Ride Share Driver,40662,7,3.6,0.32,264,50,0,8,60,0.21,24,1,67,Moderate Risk
+Ride Share Driver,48535,5,4.3,0.24,306,83,4,1,6,0.57,95,7,58,Moderate Risk
+Delivery Partner,33317,6,4.7,0.09,374,64,2,7,37,0.38,20,5,56,Moderate Risk
+Ride Share Driver,68288,8,4.1,0.24,292,93,1,5,31,0.32,63,11,96,Low Risk
+Delivery Partner,27323,7,4.3,0.17,495,63,4,3,34,0.12,41,2,53,Moderate Risk
+Delivery Partner,43314,7,5.0,0.19,102,78,2,7,41,0.35,57,6,72,Moderate Risk
+Ride Share Driver,57114,7,3.8,0.02,129,83,0,9,29,0.62,38,9,68,Moderate Risk
+Ride Share Driver,49969,8,4.9,0.09,457,67,2,2,58,0.21,99,6,66,Moderate Risk
+Freelancer,111122,8,3.5,0.12,209,56,0,8,14,0.0,50,5,76,Low Risk
+Delivery Partner,30316,7,3.9,0.29,490,78,4,9,36,0.53,86,1,47,High Risk
+Ride Share Driver,28436,8,4.4,0.01,307,80,5,3,36,0.78,61,7,32,High Risk
+Ride Share Driver,39895,8,5.0,0.17,443,74,4,2,53,0.49,45,0,41,High Risk
+Delivery Partner,22361,7,4.3,0.37,416,87,3,7,15,0.1,32,12,100,Low Risk
+Ride Share Driver,23430,8,4.6,0.05,270,63,3,5,8,0.26,77,0,43,High Risk
+Delivery Partner,38144,8,4.4,0.21,231,57,3,5,26,0.69,37,5,40,High Risk
+Delivery Partner,42951,7,4.8,0.32,310,76,4,10,36,0.19,86,4,69,Moderate Risk
+Content Creator,122573,5,3.1,0.38,152,51,1,5,48,0.49,22,8,67,Moderate Risk
+Content Creator,145566,1,3.8,0.3,220,66,4,4,21,0.32,74,12,72,Moderate Risk
+Freelancer,89691,5,4.9,0.29,304,86,5,5,28,0.17,77,11,82,Low Risk
+Delivery Partner,19828,6,4.1,0.33,345,63,2,4,4,0.65,82,6,57,Moderate Risk
+Delivery Partner,22805,8,4.9,0.18,428,74,4,6,16,0.59,71,1,39,High Risk
+Freelancer,44757,6,5.0,0.32,114,79,4,4,22,0.53,43,12,73,Moderate Risk
+Ride Share Driver,44262,8,3.6,0.01,297,78,0,2,12,0.19,91,11,86,Low Risk
+Delivery Partner,48279,9,4.8,0.37,469,69,0,9,16,0.08,28,6,96,Low Risk
+Ride Share Driver,58197,5,4.7,0.18,448,70,0,2,51,0.46,56,2,64,Moderate Risk
+Delivery Partner,19389,7,3.9,0.23,344,71,4,9,40,0.44,72,0,42,High Risk
+Content Creator,126953,1,3.4,0.11,238,84,1,10,38,0.15,99,10,88,Low Risk
+Delivery Partner,40786,9,4.2,0.3,108,86,2,6,42,0.04,43,7,94,Low Risk
+Freelancer,65948,7,5.0,0.04,91,65,2,9,37,0.06,40,11,79,Low Risk
+Delivery Partner,37120,6,4.9,0.35,266,99,5,9,29,0.79,59,2,49,High Risk
+Ride Share Driver,38297,5,3.8,0.33,148,98,1,3,18,0.63,81,10,88,Low Risk
+Ride Share Driver,27657,7,4.6,0.09,231,92,1,1,10,0.74,89,7,64,Moderate Risk
+Delivery Partner,44685,6,4.0,0.33,447,66,2,1,42,0.16,88,6,78,Low Risk
+Content Creator,17906,6,4.2,0.32,362,65,3,3,39,0.77,33,11,58,Moderate Risk
+Freelancer,48660,8,3.6,0.26,115,51,0,5,18,0.11,61,1,68,Moderate Risk
+Content Creator,112979,6,4.7,0.16,94,53,0,3,1,0.41,69,12,76,Low Risk
+Freelancer,32674,2,4.1,0.12,442,70,2,9,39,0.66,80,0,38,High Risk
+Ride Share Driver,63642,8,4.2,0.1,73,88,1,9,21,0.28,23,6,78,Low Risk
+Content Creator,27602,1,4.7,0.13,363,83,5,3,1,0.34,91,12,68,Moderate Risk
+Delivery Partner,46841,6,4.2,0.36,478,79,3,3,15,0.1,94,0,72,Moderate Risk
+Delivery Partner,27752,6,4.7,0.04,432,55,2,5,4,0.1,36,5,60,Moderate Risk
+Delivery Partner,33585,9,4.1,0.33,73,66,0,2,60,0.5,76,12,87,Low Risk
+Delivery Partner,22133,9,4.6,0.15,237,88,4,6,20,0.54,67,10,64,Moderate Risk
+Ride Share Driver,25295,6,4.3,0.21,35,74,1,7,10,0.62,63,9,69,Moderate Risk
+Delivery Partner,26228,9,3.9,0.32,118,54,4,9,23,0.45,64,10,58,Moderate Risk
+Freelancer,56755,6,5.0,0.35,39,54,5,6,41,0.52,99,9,52,Moderate Risk
+Ride Share Driver,58001,8,4.8,0.14,65,69,2,3,34,0.01,52,7,80,Low Risk
+Delivery Partner,34701,6,4.9,0.19,470,65,0,5,60,0.13,50,6,84,Low Risk
+Ride Share Driver,21591,8,4.5,0.17,212,100,3,4,46,0.79,66,3,52,Moderate Risk
+Delivery Partner,38314,6,4.1,0.02,402,90,4,5,48,0.06,25,0,57,Moderate Risk
+Freelancer,101231,4,4.8,0.13,77,86,3,8,33,0.54,91,0,48,High Risk
+Delivery Partner,20139,6,4.0,0.19,456,89,5,8,34,0.14,90,3,62,Moderate Risk
+Content Creator,115228,3,3.5,0.17,130,58,0,6,39,0.57,53,4,55,Moderate Risk
+Freelancer,41292,3,3.7,0.29,148,54,4,1,10,0.56,72,11,53,Moderate Risk
+Delivery Partner,21738,7,4.0,0.16,356,91,5,8,54,0.19,33,6,66,Moderate Risk
+Delivery Partner,48852,8,5.0,0.2,213,51,3,8,20,0.22,35,3,53,Moderate Risk
+Freelancer,83344,4,4.8,0.18,432,58,3,2,1,0.52,62,9,55,Moderate Risk
+Freelancer,93249,3,4.7,0.3,359,92,4,4,13,0.31,92,11,85,Low Risk
+Freelancer,92236,7,4.9,0.35,345,85,0,2,1,0.16,93,0,88,Low Risk
+Freelancer,107241,5,4.3,0.22,27,71,3,4,5,0.59,100,10,62,Moderate Risk
+Delivery Partner,43164,6,4.1,0.32,48,71,2,10,16,0.12,31,9,88,Low Risk
+Ride Share Driver,30177,8,3.6,0.13,131,71,5,7,15,0.68,89,6,34,High Risk
+Delivery Partner,27882,6,4.5,0.22,454,83,4,9,49,0.41,38,1,52,Moderate Risk
+Freelancer,46966,3,4.5,0.14,180,78,1,8,28,0.08,60,12,96,Low Risk
+Ride Share Driver,51575,5,4.7,0.17,150,87,1,9,31,0.56,72,10,79,Low Risk
+Delivery Partner,23445,8,4.7,0.3,207,95,0,8,23,0.42,48,1,82,Low Risk
+Delivery Partner,47257,6,5.0,0.35,182,82,2,2,48,0.24,89,7,88,Low Risk
+Delivery Partner,46478,9,4.6,0.06,216,67,3,7,45,0.34,78,11,64,Moderate Risk
+Delivery Partner,43821,6,3.9,0.26,494,56,1,2,43,0.24,83,9,77,Low Risk
+Freelancer,28507,5,4.5,0.24,383,50,0,2,17,0.21,43,9,81,Low Risk
+Ride Share Driver,27491,7,3.7,0.06,223,82,5,4,49,0.13,35,9,64,Moderate Risk
+Freelancer,95395,7,4.6,0.09,231,50,2,1,34,0.29,71,4,50,Moderate Risk
+Ride Share Driver,29077,5,3.6,0.13,128,73,2,5,13,0.2,99,9,75,Low Risk
+Delivery Partner,29383,8,4.8,0.08,295,53,0,6,14,0.55,25,1,45,High Risk
+Freelancer,38821,8,5.0,0.11,92,53,0,9,11,0.55,56,4,53,Moderate Risk
+Freelancer,92475,4,3.7,0.11,186,67,3,10,28,0.4,23,7,54,Moderate Risk
+Ride Share Driver,55196,8,3.5,0.14,279,76,0,8,42,0.62,57,5,62,Moderate Risk
+Freelancer,59064,7,4.1,0.3,262,92,3,2,32,0.67,60,2,56,Moderate Risk
+Ride Share Driver,47570,7,4.5,0.23,294,81,3,1,35,0.46,100,7,67,Moderate Risk
+Ride Share Driver,64569,6,3.9,0.39,121,82,4,2,59,0.5,33,8,69,Moderate Risk
+Ride Share Driver,56124,8,4.1,0.17,494,77,2,7,31,0.23,90,4,69,Moderate Risk
+Delivery Partner,24540,6,4.0,0.3,192,91,5,4,17,0.72,70,12,64,Moderate Risk
+Delivery Partner,27078,6,4.6,0.35,190,90,2,10,47,0.02,84,1,88,Low Risk
+Delivery Partner,41411,9,3.9,0.27,160,85,2,5,9,0.28,71,1,70,Moderate Risk
+Ride Share Driver,33261,8,4.5,0.17,416,55,4,7,10,0.58,49,6,39,High Risk
+Delivery Partner,40042,8,4.9,0.3,207,65,3,3,8,0.06,76,0,65,Moderate Risk
+Ride Share Driver,67851,8,4.1,0.09,460,83,3,10,21,0.15,98,9,76,Low Risk
+Content Creator,63268,7,3.8,0.14,105,72,0,2,13,0.47,49,11,79,Low Risk
+Delivery Partner,46602,9,4.3,0.22,495,99,4,7,59,0.45,61,1,58,Moderate Risk
+Ride Share Driver,52196,7,4.0,0.23,71,91,0,5,50,0.59,30,9,84,Low Risk
+Freelancer,27857,5,4.6,0.02,130,73,4,1,5,0.65,46,3,32,High Risk
+Delivery Partner,29425,6,4.0,0.38,456,98,0,1,6,0.1,43,0,97,Low Risk
+Delivery Partner,37440,6,4.7,0.28,384,62,1,9,30,0.01,58,3,80,Low Risk
+Delivery Partner,44385,8,4.4,0.2,361,67,2,5,31,0.55,91,12,69,Moderate Risk
+Delivery Partner,37994,9,4.0,0.37,62,62,2,1,17,0.24,37,11,85,Low Risk
+Content Creator,125672,1,3.2,0.18,230,98,5,7,11,0.5,96,10,64,Moderate Risk
+Freelancer,23711,8,4.2,0.39,475,86,3,9,20,0.12,64,12,100,Low Risk
+Ride Share Driver,40017,8,3.5,0.21,219,92,5,1,48,0.38,31,9,66,Moderate Risk
+Freelancer,76788,5,3.5,0.05,317,88,1,10,9,0.4,68,4,66,Moderate Risk
+Freelancer,59859,3,4.4,0.31,365,91,5,4,2,0.47,50,8,67,Moderate Risk
+Delivery Partner,42109,8,4.4,0.27,259,66,2,3,37,0.41,41,0,54,Moderate Risk
+Freelancer,26536,7,4.5,0.31,134,64,3,5,1,0.4,63,11,72,Moderate Risk
+Ride Share Driver,54531,5,3.8,0.38,45,67,1,7,4,0.27,83,4,77,Low Risk
+Freelancer,89744,5,3.6,0.31,426,72,2,8,36,0.06,96,1,73,Moderate Risk
+Freelancer,20109,6,3.9,0.25,318,100,0,2,54,0.07,44,8,100,Low Risk
+Delivery Partner,39847,9,4.2,0.34,96,79,4,7,58,0.35,70,5,66,Moderate Risk
+Delivery Partner,38172,6,3.8,0.27,431,83,1,1,25,0.28,26,1,73,Moderate Risk
+Delivery Partner,42849,7,4.3,0.17,156,53,3,7,3,0.41,25,2,41,High Risk
+Ride Share Driver,37773,7,4.4,0.36,39,52,5,8,9,0.24,43,7,57,Moderate Risk
+Freelancer,41143,4,4.5,0.1,459,56,5,2,22,0.55,38,0,20,High Risk
+Freelancer,79288,5,4.7,0.29,230,67,1,9,23,0.69,28,11,72,Moderate Risk
+Delivery Partner,48087,8,4.4,0.35,259,91,3,1,12,0.24,55,2,76,Low Risk
+Ride Share Driver,66167,5,3.9,0.3,58,56,1,6,10,0.15,59,12,89,Low Risk
+Ride Share Driver,58559,7,4.2,0.28,454,89,3,1,34,0.09,43,9,91,Low Risk
+Delivery Partner,47781,9,4.6,0.3,287,55,5,3,43,0.49,67,0,32,High Risk
+Delivery Partner,26905,9,3.8,0.19,226,71,2,6,10,0.36,82,10,73,Moderate Risk
+Delivery Partner,48715,6,4.4,0.35,498,50,0,3,30,0.15,88,10,90,Low Risk
+Content Creator,122360,5,3.2,0.09,458,53,2,8,22,0.52,72,7,46,High Risk
+Delivery Partner,41116,9,4.2,0.06,481,95,0,5,6,0.12,73,0,79,Low Risk
+Ride Share Driver,63201,6,4.4,0.12,286,98,5,2,50,0.44,61,12,70,Moderate Risk
+Freelancer,65861,3,4.7,0.22,173,99,2,4,2,0.42,64,4,76,Low Risk
+Ride Share Driver,23041,6,3.8,0.21,61,92,2,9,30,0.59,33,3,62,Moderate Risk
+Content Creator,72768,3,3.2,0.33,430,78,1,4,2,0.04,48,6,92,Low Risk
+Content Creator,142997,1,4.9,0.17,30,70,4,10,32,0.71,25,4,38,High Risk
+Delivery Partner,44846,9,4.2,0.2,313,75,5,10,42,0.56,26,7,47,High Risk
+Ride Share Driver,45291,8,4.9,0.02,117,63,3,8,16,0.17,56,11,68,Moderate Risk
+Delivery Partner,48555,7,4.7,0.17,446,58,5,5,12,0.15,72,10,61,Moderate Risk
+Delivery Partner,46782,8,4.4,0.26,294,96,3,10,1,0.35,37,0,66,Moderate Risk
+Delivery Partner,18458,9,4.5,0.02,467,61,3,1,53,0.65,57,4,32,High Risk
+Ride Share Driver,31653,6,4.7,0.12,409,91,0,7,8,0.67,78,3,65,Moderate Risk
+Ride Share Driver,53662,7,3.6,0.09,449,100,3,3,48,0.42,20,2,59,Moderate Risk
+Delivery Partner,42251,7,4.3,0.03,391,100,3,10,50,0.69,87,4,51,Moderate Risk
+Delivery Partner,33313,7,4.5,0.2,249,55,1,8,13,0.0,63,9,84,Low Risk
+Content Creator,120091,5,4.0,0.08,388,69,2,3,15,0.03,66,2,64,Moderate Risk
+Delivery Partner,35650,7,4.2,0.3,445,73,5,1,53,0.73,54,7,45,High Risk
+Delivery Partner,43325,9,4.7,0.34,239,76,5,5,44,0.62,79,12,64,Moderate Risk
+Ride Share Driver,48380,7,4.2,0.22,84,87,3,2,8,0.36,71,2,62,Moderate Risk
+Content Creator,102447,3,3.3,0.39,374,57,4,4,10,0.6,27,0,36,High Risk
+Delivery Partner,28181,7,4.6,0.19,251,50,5,1,46,0.76,99,8,29,High Risk
+Freelancer,52412,2,4.2,0.21,347,98,3,9,5,0.62,60,8,69,Moderate Risk
+Freelancer,75315,3,4.1,0.4,462,98,0,6,50,0.67,22,5,85,Low Risk
+Delivery Partner,30732,6,4.3,0.1,71,73,0,8,19,0.61,88,9,69,Moderate Risk
+Freelancer,113656,8,4.2,0.38,393,96,0,4,47,0.13,33,0,95,Low Risk
+Ride Share Driver,27005,5,4.6,0.03,450,56,3,9,38,0.67,45,7,36,High Risk
+Ride Share Driver,20956,8,4.1,0.18,395,68,1,2,59,0.16,89,1,67,Moderate Risk
+Ride Share Driver,32803,8,4.1,0.04,282,71,4,9,11,0.71,77,8,38,High Risk
+Ride Share Driver,59443,8,3.6,0.29,286,84,3,5,53,0.37,59,7,73,Moderate Risk
+Delivery Partner,36096,8,4.5,0.25,378,79,1,6,43,0.54,70,2,63,Moderate Risk
+Freelancer,87099,3,4.6,0.29,336,78,1,3,20,0.4,24,12,91,Low Risk
+Delivery Partner,40015,9,4.8,0.16,343,71,5,4,20,0.08,96,4,58,Moderate Risk
+Delivery Partner,44017,9,4.3,0.15,428,60,3,6,21,0.23,51,8,63,Moderate Risk
+Delivery Partner,30201,8,4.5,0.03,415,69,3,7,18,0.79,99,12,47,High Risk
+Ride Share Driver,62229,5,3.8,0.15,173,78,1,1,57,0.77,20,0,43,High Risk
+Freelancer,63364,3,4.4,0.37,377,100,1,7,50,0.26,96,8,100,Low Risk
+Delivery Partner,37342,6,4.0,0.16,385,90,1,1,10,0.8,73,3,55,Moderate Risk
+Ride Share Driver,39975,8,4.9,0.33,159,91,5,5,34,0.68,30,3,51,Moderate Risk
+Delivery Partner,31910,7,4.1,0.34,446,83,3,6,26,0.49,72,3,63,Moderate Risk
+Ride Share Driver,42861,6,3.8,0.16,70,50,1,2,30,0.03,27,9,77,Low Risk
+Delivery Partner,49556,7,4.4,0.26,136,80,0,10,9,0.72,44,11,80,Low Risk
+Freelancer,50133,7,4.8,0.05,440,79,3,9,46,0.45,59,8,60,Moderate Risk
+Ride Share Driver,54414,6,4.3,0.05,65,97,5,10,51,0.69,51,5,42,High Risk
+Content Creator,111459,2,3.2,0.03,328,67,0,6,31,0.67,47,10,60,Moderate Risk
+Delivery Partner,21216,8,4.2,0.24,107,66,2,7,42,0.67,97,7,56,Moderate Risk
+Delivery Partner,42603,7,4.8,0.18,227,87,3,10,55,0.56,22,11,72,Moderate Risk
+Delivery Partner,38740,8,4.5,0.22,396,63,2,8,4,0.23,98,3,63,Moderate Risk
+Content Creator,96475,4,4.9,0.21,288,72,1,10,6,0.27,81,2,70,Moderate Risk
+Freelancer,116678,8,3.9,0.15,108,74,5,1,14,0.25,46,0,42,High Risk
+Delivery Partner,29970,7,4.0,0.27,400,64,1,8,4,0.02,64,9,91,Low Risk
+Freelancer,86260,3,4.5,0.31,137,95,5,4,26,0.47,44,6,65,Moderate Risk
+Freelancer,34816,2,4.2,0.02,73,71,4,10,47,0.56,80,3,34,High Risk
+Ride Share Driver,58663,7,4.9,0.09,460,52,1,8,48,0.68,63,7,47,High Risk
+Ride Share Driver,63320,8,4.0,0.29,135,68,2,6,39,0.11,65,2,71,Moderate Risk
+Delivery Partner,27499,6,4.5,0.16,137,93,5,9,17,0.44,33,0,46,High Risk
+Delivery Partner,37118,6,4.4,0.27,279,83,1,4,19,0.01,27,4,91,Low Risk
+Freelancer,107464,2,4.6,0.15,94,84,3,2,51,0.08,67,1,68,Moderate Risk
+Content Creator,89671,4,4.7,0.16,499,99,5,2,49,0.04,33,2,69,Moderate Risk
+Ride Share Driver,38309,8,4.3,0.07,324,50,5,5,6,0.58,84,5,24,High Risk
+Delivery Partner,19939,7,5.0,0.11,26,70,1,10,29,0.06,99,2,72,Moderate Risk
+Delivery Partner,18968,8,4.1,0.25,385,78,4,9,11,0.57,26,2,46,High Risk
+Freelancer,15281,6,4.5,0.18,141,55,1,3,16,0.2,98,11,80,Low Risk
+Freelancer,16058,7,3.8,0.31,30,86,2,8,30,0.7,68,5,63,Moderate Risk
+Freelancer,118482,6,3.7,0.34,367,50,2,4,25,0.65,74,4,46,High Risk
+Freelancer,79178,7,4.5,0.22,457,100,5,6,40,0.77,32,9,57,Moderate Risk
+Ride Share Driver,61235,5,4.2,0.31,234,50,5,10,11,0.71,92,8,36,High Risk
+Delivery Partner,23370,8,3.8,0.13,448,76,1,6,7,0.75,75,0,42,High Risk
+Delivery Partner,30504,7,5.0,0.17,298,70,2,3,26,0.69,75,12,65,Moderate Risk
+Freelancer,30398,8,3.9,0.29,47,65,2,5,56,0.55,34,2,52,Moderate Risk
+Ride Share Driver,26570,6,4.0,0.16,254,93,4,3,22,0.14,76,2,66,Moderate Risk
+Delivery Partner,31605,9,4.0,0.24,386,89,3,1,25,0.22,77,10,86,Low Risk
+Delivery Partner,23757,6,4.0,0.08,332,75,4,7,19,0.17,54,5,58,Moderate Risk
+Freelancer,16969,3,4.6,0.24,45,65,0,4,31,0.48,35,7,74,Moderate Risk
+Delivery Partner,41559,7,4.0,0.35,428,77,4,7,26,0.4,27,2,57,Moderate Risk
+Delivery Partner,27206,9,4.0,0.35,73,50,1,3,42,0.69,64,2,47,High Risk
+Ride Share Driver,33669,5,4.9,0.29,48,85,3,5,41,0.76,59,5,56,Moderate Risk
+Freelancer,63320,8,5.0,0.3,486,59,1,5,36,0.32,73,7,76,Low Risk
+Freelancer,103009,7,4.2,0.23,372,92,0,2,23,0.41,33,5,84,Low Risk
+Delivery Partner,33504,7,4.8,0.24,183,66,3,10,47,0.78,78,12,57,Moderate Risk
+Freelancer,111999,2,3.5,0.06,289,72,5,2,13,0.22,72,11,59,Moderate Risk
+Delivery Partner,28055,6,4.6,0.18,353,56,2,4,25,0.63,46,9,54,Moderate Risk
+Delivery Partner,49520,6,4.1,0.19,54,93,4,4,2,0.18,66,2,66,Moderate Risk
+Freelancer,62055,7,4.1,0.38,305,56,1,4,2,0.55,99,3,59,Moderate Risk
+Ride Share Driver,33380,5,3.7,0.18,367,93,0,6,16,0.2,25,0,80,Low Risk
+Freelancer,51059,3,5.0,0.22,292,64,2,2,9,0.71,74,12,64,Moderate Risk
+Freelancer,20704,2,4.1,0.22,470,83,4,6,28,0.45,63,7,62,Moderate Risk
+Ride Share Driver,65743,5,4.7,0.26,227,95,2,7,13,0.15,37,3,85,Low Risk
+Delivery Partner,49308,8,4.7,0.3,257,94,4,10,35,0.18,35,5,79,Low Risk
+Ride Share Driver,45923,6,4.1,0.1,433,53,5,3,41,0.4,31,10,44,High Risk
+Delivery Partner,47165,9,4.6,0.22,112,63,3,8,13,0.77,39,2,35,High Risk
+Delivery Partner,21553,7,4.9,0.33,192,63,2,2,31,0.62,64,10,68,Moderate Risk
+Content Creator,27772,3,3.8,0.19,98,65,2,8,21,0.39,83,11,71,Moderate Risk
+Ride Share Driver,60957,6,4.5,0.12,129,56,2,5,32,0.27,78,10,67,Moderate Risk
+Freelancer,66924,8,4.4,0.27,236,81,3,2,54,0.44,41,5,65,Moderate Risk
+Ride Share Driver,57574,7,4.5,0.33,454,68,0,7,34,0.6,66,11,82,Low Risk
+Freelancer,50643,6,4.2,0.03,377,51,4,2,8,0.63,48,10,35,High Risk
+Ride Share Driver,65360,8,4.1,0.31,125,59,5,6,59,0.26,64,8,59,Moderate Risk
+Ride Share Driver,42443,6,3.6,0.33,66,99,2,10,41,0.58,96,8,81,Low Risk
+Ride Share Driver,59778,8,4.5,0.19,200,66,3,3,48,0.53,28,9,58,Moderate Risk
+Delivery Partner,45465,7,4.4,0.39,83,86,0,9,2,0.77,43,2,70,Moderate Risk
+Freelancer,37612,3,4.9,0.32,265,61,4,3,38,0.74,34,2,36,High Risk
+Delivery Partner,48145,7,4.9,0.31,263,55,3,3,32,0.63,55,3,44,High Risk
+Delivery Partner,49964,7,3.9,0.3,441,71,5,5,54,0.58,32,11,57,Moderate Risk
+Ride Share Driver,41636,6,4.3,0.07,339,81,5,7,40,0.22,63,6,56,Moderate Risk
+Delivery Partner,45598,9,4.4,0.09,106,90,4,8,58,0.68,90,2,40,High Risk
+Content Creator,83770,7,4.6,0.19,236,69,2,7,28,0.34,91,9,73,Moderate Risk
+Content Creator,88714,3,3.0,0.11,26,50,5,9,37,0.22,97,7,42,High Risk
+Content Creator,74106,7,4.8,0.17,297,96,0,5,41,0.31,95,10,99,Low Risk
+Ride Share Driver,47764,8,4.9,0.36,356,55,3,10,1,0.67,55,7,52,Moderate Risk
+Delivery Partner,48499,8,4.3,0.33,229,68,0,3,41,0.12,80,5,89,Low Risk
+Content Creator,55379,5,4.0,0.26,188,67,2,6,10,0.36,100,3,61,Moderate Risk
+Ride Share Driver,57650,6,3.7,0.34,349,55,0,5,55,0.39,59,10,81,Low Risk
+Content Creator,17151,5,3.6,0.32,157,94,0,4,4,0.03,46,11,100,Low Risk
+Content Creator,131999,2,4.2,0.18,460,82,1,2,35,0.16,20,10,92,Low Risk
+Freelancer,27289,2,5.0,0.09,410,72,0,7,10,0.66,53,4,57,Moderate Risk
+Delivery Partner,20137,6,4.4,0.21,400,72,4,5,47,0.66,87,11,56,Moderate Risk
+Ride Share Driver,54054,7,4.8,0.3,325,75,3,4,11,0.23,40,1,65,Moderate Risk
+Freelancer,44734,6,3.8,0.18,249,62,1,8,14,0.7,52,12,64,Moderate Risk
+Delivery Partner,41486,9,4.8,0.27,494,56,3,9,38,0.62,26,5,46,High Risk
+Delivery Partner,26636,7,4.9,0.05,327,64,3,9,12,0.33,84,2,45,High Risk
+Ride Share Driver,62435,6,4.7,0.3,180,93,2,3,45,0.6,22,5,72,Moderate Risk
+Content Creator,81031,5,4.3,0.33,20,76,2,3,17,0.77,70,11,69,Moderate Risk
+Freelancer,91666,6,4.4,0.29,255,75,1,5,16,0.37,98,4,74,Moderate Risk
+Ride Share Driver,43669,5,4.8,0.39,456,82,5,5,35,0.19,73,1,64,Moderate Risk
+Delivery Partner,46552,7,4.1,0.33,207,64,2,10,2,0.75,99,11,64,Moderate Risk
+Ride Share Driver,36393,8,4.1,0.36,437,85,2,2,11,0.48,93,12,88,Low Risk
+Content Creator,85388,2,4.8,0.37,23,94,2,1,41,0.08,78,4,95,Low Risk
+Delivery Partner,39199,6,4.1,0.32,420,76,3,8,3,0.46,25,4,62,Moderate Risk
+Ride Share Driver,54084,8,3.9,0.27,151,54,1,3,29,0.4,48,8,68,Moderate Risk
+Freelancer,70826,5,4.1,0.01,446,51,3,1,18,0.68,36,10,37,High Risk
+Freelancer,51041,2,3.6,0.19,237,82,4,1,20,0.42,79,7,60,Moderate Risk
+Freelancer,96571,3,4.2,0.23,279,65,3,2,47,0.2,41,11,76,Low Risk
+Freelancer,79174,2,4.6,0.13,20,72,4,6,14,0.54,43,11,57,Moderate Risk
+Ride Share Driver,37633,5,3.8,0.13,90,87,0,6,34,0.43,100,6,77,Low Risk
+Delivery Partner,34336,7,3.8,0.38,497,65,0,3,49,0.19,70,11,98,Low Risk
+Freelancer,31014,4,4.4,0.36,197,63,4,4,54,0.46,69,12,69,Moderate Risk
+Freelancer,38711,4,3.8,0.34,476,78,4,2,31,0.66,30,2,46,High Risk
+Freelancer,42213,6,4.4,0.17,208,75,3,2,58,0.02,75,9,82,Low Risk
+Content Creator,17421,1,5.0,0.02,310,84,4,7,40,0.5,90,3,44,High Risk
+Ride Share Driver,66882,7,4.5,0.04,27,64,1,1,42,0.28,61,5,62,Moderate Risk
+Ride Share Driver,48482,6,4.1,0.13,272,52,0,7,58,0.23,58,2,60,Moderate Risk
+Freelancer,46910,2,4.5,0.02,427,72,0,1,18,0.31,88,10,79,Low Risk
+Ride Share Driver,64311,8,4.7,0.02,486,78,5,6,30,0.27,67,8,55,Moderate Risk
+Freelancer,53467,3,4.0,0.37,311,83,4,3,25,0.67,76,7,60,Moderate Risk
+Freelancer,46007,8,4.7,0.29,453,82,2,8,19,0.22,40,5,81,Low Risk
+Freelancer,27323,6,4.8,0.13,263,90,2,6,8,0.59,39,3,59,Moderate Risk
+Delivery Partner,32210,6,4.2,0.06,142,90,4,2,28,0.08,34,6,70,Moderate Risk
+Ride Share Driver,30106,6,4.0,0.21,318,72,1,8,8,0.76,88,12,68,Moderate Risk
+Delivery Partner,35091,6,4.4,0.01,302,56,2,5,31,0.5,96,10,52,Moderate Risk
+Ride Share Driver,23713,8,4.7,0.38,51,52,5,8,3,0.57,70,2,36,High Risk
+Delivery Partner,21610,9,4.4,0.17,353,81,4,8,3,0.24,95,9,71,Moderate Risk
+Ride Share Driver,54503,6,4.5,0.17,396,80,1,6,44,0.33,81,7,78,Low Risk
+Ride Share Driver,60747,5,4.2,0.16,165,67,1,2,22,0.18,56,0,63,Moderate Risk
+Delivery Partner,26533,7,3.9,0.04,175,92,3,8,17,0.75,25,2,40,High Risk
+Ride Share Driver,39201,6,4.3,0.26,432,56,1,6,36,0.39,90,10,74,Moderate Risk
+Delivery Partner,44977,8,4.4,0.3,35,90,2,6,17,0.5,45,4,72,Moderate Risk
+Delivery Partner,18661,9,3.9,0.27,374,50,2,8,14,0.59,27,4,46,High Risk
+Freelancer,57828,6,4.5,0.06,66,63,4,1,51,0.3,92,9,54,Moderate Risk
+Ride Share Driver,45592,7,4.3,0.24,270,81,4,2,9,0.58,23,1,45,High Risk
+Delivery Partner,36877,7,4.3,0.23,206,55,1,9,30,0.54,40,9,64,Moderate Risk
+Ride Share Driver,23083,5,4.0,0.35,50,88,5,8,21,0.56,50,7,61,Moderate Risk
+Freelancer,35103,5,4.2,0.16,279,59,0,7,12,0.39,40,4,63,Moderate Risk
+Delivery Partner,33901,6,3.9,0.15,440,56,3,7,37,0.31,44,6,53,Moderate Risk
+Ride Share Driver,68231,6,5.0,0.25,36,75,0,5,32,0.18,34,6,90,Low Risk
+Delivery Partner,46519,9,4.4,0.26,58,83,1,2,11,0.66,54,4,65,Moderate Risk
+Delivery Partner,34669,6,3.9,0.19,323,79,1,6,20,0.49,68,7,71,Moderate Risk
+Ride Share Driver,46342,8,3.7,0.18,449,85,0,10,35,0.36,62,8,86,Low Risk
+Ride Share Driver,31023,8,4.7,0.2,493,70,3,3,53,0.76,60,3,40,High Risk
+Ride Share Driver,39169,5,3.6,0.35,451,66,0,4,47,0.04,56,3,87,Low Risk
+Freelancer,20782,3,4.0,0.19,58,82,4,10,46,0.68,76,7,50,Moderate Risk
+Content Creator,45585,3,3.5,0.38,151,59,2,2,11,0.8,61,0,38,High Risk
+Ride Share Driver,38880,7,4.7,0.21,49,100,5,2,52,0.71,66,3,48,High Risk
+Delivery Partner,27917,8,4.9,0.38,177,96,4,8,8,0.65,80,5,66,Moderate Risk
+Freelancer,79977,8,3.7,0.33,297,91,2,8,4,0.3,33,12,96,Low Risk
+Delivery Partner,42981,8,4.5,0.15,222,100,5,10,27,0.19,87,3,65,Moderate Risk
+Ride Share Driver,25435,5,4.1,0.35,85,61,5,6,44,0.59,72,5,43,High Risk
+Delivery Partner,22107,8,4.3,0.05,127,65,5,5,40,0.24,53,4,42,High Risk
+Delivery Partner,45301,7,4.6,0.37,287,90,1,8,38,0.14,95,8,100,Low Risk
+Content Creator,55033,6,4.4,0.26,241,81,5,4,47,0.63,43,9,55,Moderate Risk
+Freelancer,67290,8,4.0,0.03,311,64,3,4,30,0.25,39,8,58,Moderate Risk
+Freelancer,88800,8,4.1,0.26,37,76,0,5,44,0.73,88,3,61,Moderate Risk
+Ride Share Driver,26721,7,4.5,0.39,109,77,3,1,48,0.67,49,12,74,Moderate Risk
+Delivery Partner,25373,9,4.5,0.04,200,66,0,1,48,0.68,26,3,48,High Risk
+Delivery Partner,46937,6,4.5,0.23,274,95,4,2,27,0.62,55,11,70,Moderate Risk
+Delivery Partner,48972,7,4.2,0.3,474,99,4,8,21,0.7,57,7,64,Moderate Risk
+Ride Share Driver,28286,6,3.7,0.33,272,51,0,7,52,0.64,99,9,67,Moderate Risk
+Freelancer,46055,7,4.7,0.17,276,85,3,10,20,0.48,71,3,57,Moderate Risk
+Freelancer,26138,4,4.1,0.09,402,99,0,9,60,0.24,34,1,80,Low Risk
+Delivery Partner,35432,6,4.2,0.03,461,56,5,5,4,0.71,65,12,34,High Risk
+Content Creator,111268,2,4.0,0.24,365,62,1,2,11,0.67,42,12,68,Moderate Risk
+Freelancer,46822,5,3.6,0.19,106,64,4,7,13,0.38,31,1,40,High Risk
+Ride Share Driver,43563,8,3.7,0.38,109,74,1,8,9,0.03,63,0,82,Low Risk
+Ride Share Driver,48763,5,4.9,0.03,256,72,5,7,4,0.51,34,4,35,High Risk
+Ride Share Driver,48179,6,3.9,0.28,409,71,5,7,12,0.04,68,5,66,Moderate Risk
+Delivery Partner,20494,7,3.8,0.02,89,75,4,5,9,0.74,40,8,38,High Risk
+Ride Share Driver,32330,6,4.4,0.08,63,82,4,2,13,0.77,34,4,36,High Risk
+Freelancer,107822,4,4.1,0.19,219,60,5,6,48,0.15,33,12,66,Moderate Risk
+Delivery Partner,31828,8,4.0,0.19,171,59,2,4,26,0.54,61,5,50,Moderate Risk
+Delivery Partner,24488,7,4.4,0.28,105,74,1,10,38,0.07,99,5,87,Low Risk
+Delivery Partner,35073,6,4.5,0.36,38,86,1,2,42,0.58,34,2,71,Moderate Risk
+Delivery Partner,48158,6,4.3,0.26,120,97,2,9,13,0.28,82,11,96,Low Risk
+Freelancer,59936,4,3.6,0.38,421,92,3,7,39,0.54,87,3,67,Moderate Risk
+Freelancer,65331,7,3.9,0.35,114,87,1,6,28,0.3,46,0,77,Low Risk
+Ride Share Driver,26406,8,4.5,0.24,273,90,0,5,58,0.12,72,3,92,Low Risk
+Delivery Partner,26800,9,4.6,0.34,376,94,5,3,19,0.32,71,0,60,Moderate Risk
+Ride Share Driver,43312,5,4.4,0.26,49,73,5,10,24,0.09,82,4,63,Moderate Risk
+Ride Share Driver,61779,5,4.4,0.04,268,89,2,10,19,0.46,92,10,72,Moderate Risk
+Delivery Partner,30411,7,4.3,0.3,445,95,1,4,49,0.03,72,10,100,Low Risk
+Ride Share Driver,35422,5,4.8,0.05,52,82,3,3,13,0.42,76,7,60,Moderate Risk
+Ride Share Driver,25693,8,3.8,0.24,477,66,1,8,13,0.71,71,7,58,Moderate Risk
+Ride Share Driver,51238,7,4.1,0.28,248,73,5,3,58,0.67,62,4,40,High Risk
+Ride Share Driver,54317,7,4.6,0.04,31,86,4,7,28,0.71,26,9,49,High Risk
+Delivery Partner,28837,6,3.8,0.1,137,51,0,7,53,0.74,61,1,36,High Risk
+Ride Share Driver,24481,6,4.2,0.37,369,81,2,7,2,0.08,23,11,100,Low Risk
+Ride Share Driver,57605,7,4.4,0.25,174,73,4,7,10,0.1,88,5,69,Moderate Risk
+Ride Share Driver,44022,6,3.8,0.11,442,58,3,2,22,0.45,24,0,34,High Risk
+Freelancer,106012,2,4.0,0.28,412,53,4,10,13,0.72,94,6,37,High Risk
+Freelancer,74353,3,4.4,0.24,265,66,4,3,58,0.78,99,10,48,High Risk
+Delivery Partner,34052,7,3.9,0.21,424,66,3,10,9,0.04,60,3,66,Moderate Risk
+Delivery Partner,18671,9,4.2,0.39,351,99,4,9,33,0.28,23,4,79,Low Risk
+Ride Share Driver,24795,7,4.2,0.28,266,97,2,3,14,0.17,21,5,89,Low Risk
+Delivery Partner,36739,9,3.9,0.16,48,79,5,2,48,0.6,86,10,51,Moderate Risk
+Ride Share Driver,44345,6,3.7,0.32,180,89,1,9,20,0.51,40,0,68,Moderate Risk
+Content Creator,138563,4,4.3,0.35,254,60,4,10,15,0.1,89,8,73,Moderate Risk
+Ride Share Driver,27394,5,4.4,0.06,209,70,2,9,32,0.39,62,9,64,Moderate Risk
+Ride Share Driver,50620,6,4.1,0.09,136,70,1,4,33,0.55,88,3,52,Moderate Risk
+Ride Share Driver,63404,5,4.9,0.09,290,67,1,9,17,0.62,28,7,57,Moderate Risk
+Ride Share Driver,52784,8,4.0,0.28,277,78,4,3,24,0.02,47,4,73,Moderate Risk
+Ride Share Driver,59040,6,4.2,0.25,199,73,2,7,30,0.71,45,10,64,Moderate Risk
+Content Creator,147244,1,4.7,0.25,392,59,5,7,13,0.46,22,7,47,High Risk
+Ride Share Driver,40281,8,4.9,0.38,191,94,4,8,59,0.65,92,0,55,Moderate Risk
+Content Creator,137734,2,3.8,0.31,457,66,3,10,47,0.65,68,7,54,Moderate Risk
+Content Creator,61399,1,4.2,0.06,293,67,1,4,48,0.15,36,10,79,Low Risk
+Delivery Partner,25099,8,4.4,0.15,278,91,4,3,16,0.09,82,12,87,Low Risk
+Delivery Partner,49186,6,4.7,0.18,154,97,1,3,2,0.58,74,10,84,Low Risk
+Delivery Partner,49168,8,4.6,0.16,190,69,2,5,17,0.13,42,3,68,Moderate Risk
+Delivery Partner,22940,9,3.9,0.27,229,86,0,1,32,0.68,53,1,64,Moderate Risk
+Delivery Partner,48762,6,3.9,0.36,255,94,4,10,43,0.58,88,10,75,Low Risk
+Freelancer,104570,2,4.9,0.13,441,67,5,3,8,0.67,34,5,33,High Risk
+Delivery Partner,40804,9,4.2,0.23,440,66,4,6,52,0.24,66,1,50,Moderate Risk
+Delivery Partner,34749,9,4.2,0.32,205,58,1,3,3,0.25,22,4,71,Moderate Risk
+Freelancer,118634,8,4.7,0.17,436,63,2,5,12,0.54,47,1,45,High Risk
+Delivery Partner,43138,8,4.3,0.08,383,98,3,9,20,0.03,22,2,74,Moderate Risk
+Freelancer,119797,7,4.6,0.2,462,78,5,2,16,0.58,23,10,55,Moderate Risk
+Delivery Partner,23439,7,3.8,0.03,114,80,2,2,14,0.67,50,5,47,High Risk
+Delivery Partner,31279,9,5.0,0.38,397,53,4,6,16,0.33,64,0,47,High Risk
+Freelancer,32630,2,5.0,0.04,30,67,3,6,59,0.61,78,5,41,High Risk
+Ride Share Driver,51182,6,3.5,0.18,87,69,2,8,53,0.14,64,2,64,Moderate Risk
+Freelancer,65979,7,3.9,0.22,398,96,0,2,49,0.26,94,6,93,Low Risk
+Freelancer,57600,2,4.9,0.39,229,92,5,9,43,0.78,56,1,46,High Risk
+Freelancer,76558,7,4.8,0.07,215,93,1,2,49,0.79,84,5,58,Moderate Risk
+Delivery Partner,32089,6,4.0,0.05,388,58,2,1,51,0.41,28,7,52,Moderate Risk
+Delivery Partner,23978,9,3.9,0.01,117,62,2,10,54,0.75,36,0,24,High Risk
+Freelancer,114084,6,4.9,0.07,112,64,0,2,33,0.42,84,10,74,Moderate Risk
+Freelancer,84519,5,3.7,0.09,491,76,4,7,30,0.23,22,10,66,Moderate Risk
+Content Creator,55838,1,4.9,0.26,41,64,5,8,59,0.21,45,12,70,Moderate Risk
+Ride Share Driver,46806,5,4.1,0.1,469,77,5,5,12,0.74,72,8,38,High Risk
+Ride Share Driver,58714,6,4.2,0.02,191,86,1,6,15,0.14,50,4,75,Low Risk
+Freelancer,92425,7,3.9,0.33,402,68,2,1,18,0.46,45,4,63,Moderate Risk
+Delivery Partner,32291,6,4.6,0.15,153,75,3,6,28,0.44,42,12,71,Moderate Risk
+Content Creator,74946,6,3.0,0.15,445,75,2,8,23,0.59,49,11,64,Moderate Risk
+Freelancer,76332,4,4.5,0.13,44,74,1,3,14,0.4,29,4,64,Moderate Risk
+Ride Share Driver,68758,7,4.8,0.39,204,75,2,1,30,0.22,91,5,83,Low Risk
+Freelancer,65408,8,3.9,0.08,104,75,0,4,33,0.14,83,1,71,Moderate Risk
+Freelancer,43044,7,4.2,0.36,74,95,2,1,45,0.5,41,5,79,Low Risk
+Delivery Partner,32215,7,4.7,0.31,270,77,2,8,15,0.58,34,10,75,Low Risk
+Content Creator,92566,7,4.3,0.04,163,98,3,5,7,0.46,75,3,57,Moderate Risk
+Ride Share Driver,48927,6,4.6,0.39,370,67,0,1,15,0.59,93,7,78,Low Risk
+Freelancer,73712,7,4.3,0.12,417,81,0,8,52,0.11,39,12,100,Low Risk
+Delivery Partner,34140,7,3.9,0.05,186,52,2,9,42,0.71,66,10,43,High Risk
+Freelancer,70731,4,4.9,0.33,431,51,5,10,46,0.47,72,8,49,High Risk
+Ride Share Driver,46062,7,3.7,0.29,243,82,3,2,38,0.1,72,8,85,Low Risk
+Delivery Partner,47739,6,4.3,0.25,239,91,2,9,46,0.37,20,7,81,Low Risk
+Content Creator,37044,5,4.5,0.07,198,68,2,8,56,0.68,21,2,38,High Risk
+Delivery Partner,26706,8,3.9,0.2,138,66,1,7,57,0.72,77,9,60,Moderate Risk
+Delivery Partner,34406,6,3.9,0.31,452,93,1,3,54,0.21,38,10,100,Low Risk
+Content Creator,114555,7,4.8,0.13,284,82,5,2,44,0.57,81,10,54,Moderate Risk
+Content Creator,111604,7,3.3,0.13,461,61,3,7,11,0.08,97,3,56,Moderate Risk
+Ride Share Driver,56495,8,3.9,0.01,448,98,4,5,29,0.03,91,0,61,Moderate Risk
+Ride Share Driver,45860,7,5.0,0.08,169,52,1,6,31,0.45,31,8,58,Moderate Risk
+Ride Share Driver,68231,7,4.1,0.35,435,92,4,4,25,0.56,45,4,62,Moderate Risk
+Delivery Partner,47545,7,4.0,0.18,472,98,0,2,52,0.64,46,5,75,Low Risk
+Delivery Partner,21081,6,4.7,0.39,234,75,1,9,54,0.27,48,2,80,Low Risk
+Freelancer,95102,4,3.8,0.16,216,84,1,3,24,0.01,34,10,97,Low Risk
+Freelancer,46656,6,4.3,0.29,61,57,3,7,57,0.38,65,9,64,Moderate Risk
+Freelancer,99899,7,4.8,0.12,72,85,5,8,19,0.01,20,7,72,Moderate Risk
+Freelancer,25805,5,4.6,0.15,499,56,4,2,2,0.07,79,6,59,Moderate Risk
+Delivery Partner,35421,6,4.9,0.08,462,95,1,6,22,0.26,76,0,71,Moderate Risk
+Ride Share Driver,43928,8,4.0,0.15,349,95,1,8,20,0.35,22,9,87,Low Risk
+Delivery Partner,19778,8,4.2,0.22,270,85,3,7,33,0.22,37,11,85,Low Risk
+Ride Share Driver,32087,7,5.0,0.4,314,65,3,3,8,0.47,71,4,62,Moderate Risk
+Ride Share Driver,54947,7,4.2,0.27,397,73,5,1,25,0.04,79,9,75,Low Risk
+Freelancer,33313,7,4.4,0.09,290,50,4,6,46,0.12,53,8,54,Moderate Risk
+Ride Share Driver,21828,6,4.1,0.03,474,98,0,8,9,0.56,79,11,83,Low Risk
+Delivery Partner,20023,8,3.8,0.06,432,74,5,6,34,0.11,45,10,63,Moderate Risk
+Delivery Partner,44661,7,4.2,0.23,142,59,0,5,57,0.51,91,11,76,Low Risk
+Freelancer,48848,6,3.6,0.31,386,65,2,8,23,0.04,38,5,79,Low Risk
+Ride Share Driver,47766,7,4.2,0.38,406,65,1,2,5,0.33,41,7,81,Low Risk
+Delivery Partner,47197,8,3.9,0.02,358,57,4,1,55,0.14,52,9,55,Moderate Risk
+Delivery Partner,38815,7,4.5,0.21,285,78,5,1,25,0.09,57,0,55,Moderate Risk
+Freelancer,108059,7,4.2,0.19,367,88,1,4,8,0.45,54,9,82,Low Risk
+Delivery Partner,34029,7,4.5,0.27,48,77,4,6,16,0.74,86,10,56,Moderate Risk
+Freelancer,75603,5,4.0,0.23,482,55,4,9,54,0.04,29,6,62,Moderate Risk
+Freelancer,83926,7,3.7,0.28,54,65,4,1,48,0.34,34,2,49,High Risk
+Delivery Partner,35047,6,4.7,0.27,25,69,1,1,45,0.57,30,8,71,Moderate Risk
+Delivery Partner,39817,7,4.1,0.06,415,65,5,5,52,0.37,43,5,39,High Risk
+Content Creator,67775,5,3.3,0.32,130,56,3,10,15,0.65,96,4,43,High Risk
+Ride Share Driver,48854,5,4.2,0.06,313,90,1,5,1,0.14,23,7,85,Low Risk
+Ride Share Driver,53937,7,3.8,0.28,96,63,4,5,22,0.77,32,7,41,High Risk
+Freelancer,99730,5,4.6,0.17,368,92,5,10,3,0.31,92,11,73,Moderate Risk
+Content Creator,43787,6,4.3,0.21,166,75,2,6,38,0.27,76,11,83,Low Risk
+Content Creator,44051,4,4.6,0.36,86,75,0,8,54,0.7,56,2,66,Moderate Risk
+Freelancer,98930,8,4.1,0.36,411,63,4,3,14,0.45,67,1,47,High Risk
+Ride Share Driver,38509,8,4.1,0.33,27,56,2,9,36,0.41,90,1,53,Moderate Risk
+Delivery Partner,32472,7,4.5,0.21,141,82,3,1,18,0.58,20,4,55,Moderate Risk
+Freelancer,110804,3,4.0,0.3,359,75,4,4,47,0.46,79,9,65,Moderate Risk
+Ride Share Driver,66698,5,4.4,0.21,194,94,2,9,41,0.13,31,11,98,Low Risk
+Ride Share Driver,52373,5,4.5,0.35,407,69,4,8,18,0.54,40,6,56,Moderate Risk
+Content Creator,93820,3,4.9,0.17,198,52,1,10,3,0.11,30,7,74,Moderate Risk
+Delivery Partner,35833,8,4.3,0.39,104,53,5,9,10,0.64,63,9,47,High Risk
+Ride Share Driver,36370,5,4.8,0.37,470,75,2,1,49,0.79,77,7,63,Moderate Risk
+Delivery Partner,40436,9,4.8,0.3,64,60,5,9,39,0.3,63,12,67,Moderate Risk
+Ride Share Driver,68201,8,4.2,0.12,155,51,1,3,47,0.36,97,11,68,Moderate Risk
+Delivery Partner,33941,7,3.9,0.06,362,63,1,10,1,0.04,53,7,75,Low Risk
+Delivery Partner,33078,8,4.4,0.34,35,93,5,9,27,0.01,44,9,90,Low Risk
+Delivery Partner,47312,9,4.7,0.07,352,79,2,1,57,0.74,23,11,60,Moderate Risk
+Ride Share Driver,62821,5,3.7,0.34,214,98,5,1,27,0.1,83,10,89,Low Risk
+Freelancer,22531,5,4.1,0.2,28,61,5,9,11,0.36,35,2,38,High Risk
+Ride Share Driver,21619,8,4.2,0.17,335,75,0,6,49,0.65,29,10,73,Moderate Risk
+Content Creator,142503,4,3.1,0.36,353,93,2,4,5,0.71,85,1,59,Moderate Risk
+Ride Share Driver,29557,8,3.9,0.25,352,82,0,7,7,0.42,54,12,94,Low Risk
+Delivery Partner,19974,9,4.7,0.23,346,62,4,5,19,0.45,25,3,45,High Risk
+Freelancer,65057,7,4.1,0.23,34,63,5,10,57,0.54,38,0,30,High Risk
+Delivery Partner,25896,6,4.1,0.15,346,73,4,7,56,0.77,78,2,30,High Risk
+Content Creator,51800,5,4.7,0.32,121,83,2,8,29,0.48,72,10,83,Low Risk
+Delivery Partner,48314,9,4.5,0.11,245,93,5,8,15,0.45,27,8,59,Moderate Risk
+Content Creator,113864,5,4.1,0.38,444,75,4,1,35,0.01,97,6,81,Low Risk
+Delivery Partner,22000,8,4.2,0.36,297,70,3,8,47,0.06,29,6,81,Low Risk
+Freelancer,111894,8,3.5,0.14,427,77,1,6,37,0.46,86,0,54,Moderate Risk
+Ride Share Driver,27927,7,4.9,0.29,132,97,5,4,55,0.75,57,6,55,Moderate Risk
+Content Creator,75428,2,4.7,0.23,447,85,1,8,12,0.69,48,9,74,Moderate Risk
+Delivery Partner,21959,9,4.5,0.14,20,89,0,3,30,0.79,34,6,66,Moderate Risk
+Ride Share Driver,40644,6,5.0,0.4,285,51,4,4,20,0.42,42,3,50,Moderate Risk
+Content Creator,38228,3,4.5,0.02,227,91,0,6,37,0.63,65,6,67,Moderate Risk
+Ride Share Driver,51703,5,4.2,0.11,129,58,5,7,3,0.67,47,7,30,High Risk
+Ride Share Driver,42360,5,4.4,0.21,219,72,1,4,9,0.52,45,2,58,Moderate Risk
+Freelancer,96912,6,3.7,0.21,459,64,1,4,58,0.27,29,12,83,Low Risk
+Ride Share Driver,27345,5,3.8,0.24,388,62,4,7,41,0.38,66,9,58,Moderate Risk
+Ride Share Driver,43017,5,4.8,0.3,492,72,5,6,39,0.69,23,1,35,High Risk
+Ride Share Driver,39446,5,4.3,0.25,325,66,3,8,26,0.24,74,6,66,Moderate Risk
+Content Creator,107852,5,4.7,0.24,31,97,3,1,2,0.74,85,4,58,Moderate Risk
+Delivery Partner,41481,8,3.9,0.03,364,51,4,10,23,0.18,86,4,41,High Risk
+Delivery Partner,29861,6,4.5,0.16,484,69,5,7,23,0.6,26,4,36,High Risk
+Content Creator,60669,6,4.7,0.1,207,69,4,7,59,0.5,74,6,46,High Risk
+Freelancer,62945,6,3.7,0.11,173,95,5,7,21,0.6,99,8,52,Moderate Risk
+Ride Share Driver,34357,8,3.8,0.23,387,52,0,7,16,0.35,50,10,76,Low Risk
+Ride Share Driver,20097,8,4.1,0.09,353,61,4,10,9,0.75,93,7,32,High Risk
+Delivery Partner,30924,8,4.5,0.12,444,89,5,10,13,0.51,38,5,49,High Risk
+Delivery Partner,26535,8,4.4,0.1,439,51,3,8,28,0.23,47,6,52,Moderate Risk
+Ride Share Driver,50651,7,4.2,0.38,396,85,5,9,27,0.51,100,8,66,Moderate Risk
+Ride Share Driver,21727,7,4.7,0.38,298,63,5,9,51,0.23,47,10,71,Moderate Risk
+Ride Share Driver,57823,8,3.9,0.25,190,65,4,2,52,0.23,38,5,59,Moderate Risk
+Delivery Partner,30819,7,4.2,0.37,153,68,0,7,17,0.32,39,0,73,Moderate Risk
+Content Creator,88707,6,3.0,0.32,472,83,0,7,38,0.68,32,3,67,Moderate Risk
+Content Creator,106468,7,4.8,0.24,446,93,0,4,36,0.4,96,7,91,Low Risk
+Freelancer,29939,7,3.9,0.01,44,95,0,9,1,0.54,62,6,71,Moderate Risk
+Ride Share Driver,47624,8,5.0,0.31,37,55,2,8,18,0.31,30,2,60,Moderate Risk
+Delivery Partner,25193,6,3.8,0.28,209,62,4,1,51,0.21,67,9,67,Moderate Risk
+Freelancer,96816,7,4.0,0.25,160,85,1,2,9,0.76,34,2,57,Moderate Risk
+Freelancer,106179,2,4.1,0.31,62,71,4,2,13,0.48,36,10,65,Moderate Risk
+Delivery Partner,36658,7,4.2,0.21,353,67,2,8,40,0.75,73,2,41,High Risk
+Content Creator,98664,3,3.8,0.28,303,61,0,1,55,0.16,69,11,93,Low Risk
+Freelancer,47658,6,4.9,0.37,165,79,2,4,45,0.12,47,0,78,Low Risk
+Content Creator,143623,4,4.0,0.16,334,100,3,10,15,0.68,23,9,67,Moderate Risk
+Freelancer,66707,5,4.6,0.29,463,89,3,5,43,0.54,41,0,57,Moderate Risk
+Ride Share Driver,27239,7,4.5,0.2,338,56,4,9,44,0.15,58,5,56,Moderate Risk
+Ride Share Driver,60846,8,4.8,0.27,460,81,4,7,46,0.22,53,0,60,Moderate Risk
+Content Creator,148043,4,4.1,0.31,111,97,1,8,4,0.64,63,4,75,Low Risk
+Freelancer,95257,8,4.4,0.03,198,68,1,9,33,0.36,61,3,56,Moderate Risk
+Delivery Partner,29116,8,4.9,0.26,75,55,3,7,24,0.54,59,4,47,High Risk
+Delivery Partner,19898,9,4.4,0.1,174,69,0,5,36,0.25,31,6,75,Low Risk
+Ride Share Driver,39584,7,3.8,0.27,179,76,2,5,51,0.3,21,5,72,Moderate Risk
+Freelancer,48380,5,4.7,0.19,130,92,1,10,41,0.79,47,11,75,Low Risk
+Content Creator,77843,6,4.2,0.31,156,86,5,6,10,0.2,93,8,75,Low Risk
+Delivery Partner,44357,8,4.9,0.06,251,97,1,5,36,0.41,100,5,75,Low Risk
+Ride Share Driver,35149,7,5.0,0.25,499,56,0,9,20,0.68,86,8,64,Moderate Risk
+Ride Share Driver,45150,5,5.0,0.12,487,54,0,3,41,0.19,90,3,66,Moderate Risk
+Content Creator,62756,6,4.3,0.34,239,60,4,3,45,0.33,91,0,47,High Risk
+Freelancer,16283,5,4.8,0.37,87,64,2,7,44,0.49,95,0,56,Moderate Risk
+Freelancer,41170,8,3.7,0.4,321,52,0,7,11,0.38,100,9,81,Low Risk
+Ride Share Driver,28004,5,3.6,0.32,268,54,1,6,12,0.37,29,6,67,Moderate Risk
+Ride Share Driver,46819,5,4.7,0.3,342,72,1,3,18,0.29,76,12,93,Low Risk
+Delivery Partner,42217,7,4.3,0.09,429,86,3,7,30,0.47,56,12,71,Moderate Risk
+Delivery Partner,18226,6,4.2,0.14,411,58,0,5,44,0.5,96,12,73,Moderate Risk
+Freelancer,64416,5,4.9,0.19,25,64,5,7,48,0.52,83,2,34,High Risk
+Freelancer,15645,4,4.6,0.31,483,52,4,2,37,0.06,98,1,55,Moderate Risk
+Content Creator,132232,3,4.8,0.37,299,78,2,6,20,0.5,59,5,72,Moderate Risk
+Content Creator,53732,2,4.6,0.08,451,55,5,8,25,0.76,79,5,20,High Risk
+Ride Share Driver,20587,8,4.3,0.37,113,66,4,1,12,0.43,67,12,72,Moderate Risk
+Freelancer,84615,6,3.7,0.28,448,75,1,4,21,0.57,38,6,68,Moderate Risk
+Content Creator,101353,6,4.4,0.25,288,70,5,1,25,0.45,91,4,46,High Risk
+Freelancer,74042,5,4.9,0.09,216,57,4,1,11,0.68,52,7,35,High Risk
+Delivery Partner,24450,8,4.0,0.03,44,70,1,10,9,0.74,63,6,47,High Risk
+Ride Share Driver,53866,5,4.2,0.23,167,60,1,8,50,0.15,56,1,66,Moderate Risk
+Delivery Partner,27087,7,4.7,0.26,137,87,1,7,25,0.35,55,0,72,Moderate Risk
+Content Creator,42602,3,3.1,0.09,357,57,1,10,35,0.31,100,12,71,Moderate Risk
+Ride Share Driver,47516,8,3.7,0.23,386,91,1,1,52,0.32,40,8,88,Low Risk
+Delivery Partner,22578,9,3.8,0.34,357,73,3,2,32,0.1,21,4,75,Low Risk
+Freelancer,82494,7,4.8,0.34,85,84,5,4,49,0.65,50,11,65,Moderate Risk
+Ride Share Driver,48795,5,4.8,0.37,477,63,4,1,14,0.03,49,10,83,Low Risk
+Ride Share Driver,61814,8,4.5,0.15,320,63,3,3,1,0.42,95,4,49,High Risk
+Delivery Partner,41043,7,4.4,0.13,389,59,3,8,17,0.53,63,11,56,Moderate Risk
+Freelancer,70077,8,3.8,0.3,194,61,0,8,25,0.17,31,9,89,Low Risk
+Ride Share Driver,26370,5,4.0,0.18,338,87,0,8,59,0.72,70,3,63,Moderate Risk
+Freelancer,23179,7,4.9,0.04,95,93,0,6,8,0.67,68,1,58,Moderate Risk
+Ride Share Driver,43952,7,4.7,0.12,480,95,2,6,5,0.38,43,4,71,Moderate Risk
+Freelancer,65939,6,4.8,0.17,133,83,0,5,5,0.33,43,1,73,Moderate Risk
+Ride Share Driver,41125,7,3.5,0.12,130,90,4,9,41,0.19,79,11,77,Low Risk
+Ride Share Driver,37761,8,4.1,0.14,268,59,3,4,35,0.58,30,6,44,High Risk
+Freelancer,80677,5,4.1,0.12,458,66,4,10,19,0.11,32,10,68,Moderate Risk
+Ride Share Driver,35037,7,4.1,0.03,222,66,5,7,23,0.54,91,8,37,High Risk
+Delivery Partner,24142,7,4.4,0.26,166,52,0,1,9,0.67,93,8,62,Moderate Risk
+Delivery Partner,28096,6,4.3,0.24,54,80,2,9,54,0.18,91,10,88,Low Risk
+Freelancer,76709,3,4.9,0.26,328,100,5,7,30,0.69,83,5,55,Moderate Risk
+Ride Share Driver,38351,5,3.9,0.09,45,50,2,10,50,0.03,39,0,51,Moderate Risk
+Freelancer,30282,4,4.6,0.13,257,61,5,9,16,0.73,91,12,41,High Risk
+Delivery Partner,42264,9,3.8,0.25,33,88,3,7,33,0.09,92,5,80,Low Risk
+Delivery Partner,33686,7,4.7,0.24,393,53,4,2,2,0.52,90,4,40,High Risk
+Delivery Partner,29002,9,4.8,0.21,64,91,1,6,14,0.2,97,3,84,Low Risk
+Ride Share Driver,33074,7,4.2,0.15,447,62,4,10,46,0.67,47,11,47,High Risk
+Ride Share Driver,54228,5,3.6,0.37,235,83,0,4,1,0.41,21,5,86,Low Risk
+Ride Share Driver,63472,6,3.6,0.14,252,91,1,3,26,0.11,62,5,85,Low Risk
+Ride Share Driver,26816,8,3.9,0.19,212,70,2,2,58,0.46,27,5,59,Moderate Risk
+Content Creator,56733,3,3.1,0.27,70,71,3,6,25,0.33,32,1,54,Moderate Risk
+Delivery Partner,29240,8,4.7,0.22,446,53,3,8,16,0.53,54,6,48,High Risk
+Ride Share Driver,52808,8,3.6,0.15,394,67,2,6,15,0.71,42,3,41,High Risk
+Freelancer,65139,3,4.5,0.18,233,54,0,9,26,0.33,65,12,81,Low Risk
+Ride Share Driver,44173,6,4.8,0.32,170,68,2,5,47,0.23,34,11,87,Low Risk
+Ride Share Driver,25374,7,4.3,0.12,459,51,5,2,44,0.01,21,8,56,Moderate Risk
+Freelancer,89813,2,3.9,0.07,294,61,0,8,16,0.46,80,9,66,Moderate Risk
+Content Creator,76314,6,4.7,0.13,357,66,1,9,14,0.32,95,1,58,Moderate Risk
+Delivery Partner,48462,6,3.9,0.34,95,59,2,10,29,0.3,83,4,65,Moderate Risk
+Content Creator,68643,5,4.2,0.04,458,83,0,4,24,0.15,71,3,77,Low Risk
+Ride Share Driver,36288,5,3.6,0.4,239,55,1,6,47,0.34,55,8,77,Low Risk
+Delivery Partner,37900,6,4.6,0.22,367,57,2,10,55,0.79,86,3,38,High Risk
+Ride Share Driver,29168,6,4.8,0.39,463,100,3,8,15,0.24,88,7,94,Low Risk
+Content Creator,42174,4,4.8,0.38,206,60,2,9,19,0.48,86,7,68,Moderate Risk
+Ride Share Driver,26317,7,3.7,0.19,308,61,4,5,8,0.62,66,5,38,High Risk
+Delivery Partner,30946,7,4.0,0.09,422,58,2,6,34,0.6,21,5,42,High Risk
+Ride Share Driver,36789,8,4.9,0.07,47,51,4,4,2,0.26,63,10,53,Moderate Risk
+Delivery Partner,27765,9,4.7,0.1,398,57,1,5,27,0.49,83,7,57,Moderate Risk
+Delivery Partner,30466,9,4.6,0.29,199,60,2,7,10,0.7,100,11,63,Moderate Risk
+Delivery Partner,28587,9,4.1,0.12,272,85,1,9,35,0.01,97,12,100,Low Risk
+Delivery Partner,48795,6,5.0,0.14,145,59,1,10,23,0.35,47,11,74,Moderate Risk
+Delivery Partner,31803,7,4.1,0.19,196,70,0,6,49,0.18,73,9,88,Low Risk
+Delivery Partner,36778,8,5.0,0.37,56,69,1,6,8,0.31,93,8,87,Low Risk
+Ride Share Driver,52327,7,4.1,0.08,429,97,1,8,28,0.33,86,4,76,Low Risk
+Delivery Partner,20261,6,3.8,0.01,118,57,2,4,23,0.6,55,10,48,High Risk
+Delivery Partner,24716,9,4.5,0.03,117,85,2,3,4,0.08,82,0,65,Moderate Risk
+Freelancer,19378,4,3.9,0.36,146,78,3,7,14,0.41,44,0,58,Moderate Risk
+Ride Share Driver,44000,5,4.0,0.26,187,91,0,5,53,0.45,67,1,76,Low Risk
+Freelancer,83336,4,3.8,0.12,99,61,1,2,42,0.4,58,9,66,Moderate Risk
+Delivery Partner,23410,9,4.1,0.08,313,63,0,2,29,0.59,66,9,63,Moderate Risk
+Delivery Partner,48519,6,4.4,0.12,352,97,4,6,1,0.31,40,4,64,Moderate Risk
+Delivery Partner,39477,6,3.8,0.05,145,99,1,8,4,0.76,49,3,55,Moderate Risk
+Delivery Partner,43789,9,3.8,0.38,362,70,0,1,32,0.39,50,0,71,Moderate Risk
+Delivery Partner,22987,6,4.2,0.32,329,71,3,6,33,0.46,45,3,57,Moderate Risk
+Delivery Partner,34724,6,4.5,0.19,169,70,3,2,49,0.66,41,3,43,High Risk
+Delivery Partner,30605,7,4.2,0.35,35,93,1,2,26,0.22,40,9,100,Low Risk
+Delivery Partner,45005,6,4.3,0.11,47,99,4,7,17,0.06,20,3,72,Moderate Risk
+Ride Share Driver,66628,5,4.4,0.29,438,79,3,10,39,0.57,56,0,50,Moderate Risk
+Delivery Partner,18855,6,4.2,0.34,463,88,3,1,23,0.39,96,8,80,Low Risk
+Ride Share Driver,69062,7,4.8,0.15,192,69,4,6,32,0.72,65,2,32,High Risk
+Ride Share Driver,24492,8,4.6,0.31,65,73,0,7,52,0.79,28,12,79,Low Risk
+Freelancer,96554,4,3.7,0.13,347,72,3,8,15,0.32,36,3,53,Moderate Risk
+Delivery Partner,38013,6,4.3,0.13,255,56,2,7,13,0.33,66,4,53,Moderate Risk
+Freelancer,76035,4,4.1,0.05,458,58,5,6,60,0.33,78,12,50,Moderate Risk
+Ride Share Driver,32743,5,4.6,0.18,233,50,5,9,2,0.26,73,12,57,Moderate Risk
+Delivery Partner,29531,6,4.2,0.29,104,75,3,3,60,0.63,31,6,57,Moderate Risk
+Freelancer,79089,8,4.9,0.38,301,87,0,6,19,0.61,83,5,83,Low Risk
+Content Creator,91348,1,4.3,0.25,251,87,0,4,24,0.38,25,4,82,Low Risk
+Delivery Partner,31654,7,4.1,0.35,104,93,1,2,45,0.04,72,7,100,Low Risk
+Delivery Partner,18726,6,4.5,0.33,428,71,2,1,24,0.25,35,0,66,Moderate Risk
+Freelancer,38377,3,3.7,0.08,84,93,0,1,11,0.23,24,6,86,Low Risk
+Freelancer,97909,2,4.2,0.2,153,59,4,10,59,0.65,92,11,49,High Risk
+Delivery Partner,34977,6,3.9,0.06,170,55,2,3,22,0.07,65,5,60,Moderate Risk
+Delivery Partner,28651,9,4.7,0.28,134,66,5,4,15,0.64,33,10,51,Moderate Risk
+Ride Share Driver,56576,8,3.6,0.38,83,100,2,2,10,0.54,63,4,78,Low Risk
+Ride Share Driver,39086,5,4.9,0.06,362,99,4,1,41,0.59,82,6,56,Moderate Risk
+Ride Share Driver,57822,5,4.5,0.3,446,87,3,4,27,0.35,71,2,68,Moderate Risk
+Ride Share Driver,54610,7,4.4,0.26,382,73,4,7,60,0.54,45,0,42,High Risk
+Ride Share Driver,29101,6,3.7,0.24,426,100,4,10,9,0.49,72,8,71,Moderate Risk
+Freelancer,79200,2,3.7,0.16,371,59,3,6,52,0.62,48,1,32,High Risk
+Delivery Partner,35154,9,4.6,0.15,177,57,3,6,28,0.36,38,12,65,Moderate Risk
+Delivery Partner,47300,7,4.4,0.03,96,70,3,9,1,0.38,66,9,58,Moderate Risk
+Freelancer,48154,7,3.7,0.09,165,55,3,2,17,0.51,27,2,33,High Risk
+Freelancer,93928,2,4.1,0.02,362,70,3,4,31,0.09,42,7,65,Moderate Risk
+Ride Share Driver,22282,5,3.6,0.24,482,88,4,5,44,0.35,54,11,76,Low Risk
+Ride Share Driver,21998,6,4.9,0.05,244,73,1,1,10,0.78,72,9,56,Moderate Risk
+Delivery Partner,22669,6,4.1,0.35,424,82,1,8,37,0.03,77,8,100,Low Risk
+Ride Share Driver,59832,7,4.7,0.21,332,67,0,8,29,0.25,24,12,92,Low Risk
+Ride Share Driver,27461,8,4.1,0.28,122,77,1,6,18,0.25,35,2,75,Low Risk
+Delivery Partner,35514,7,4.3,0.17,426,81,5,5,47,0.51,36,5,47,High Risk
+Delivery Partner,21500,8,4.5,0.23,366,61,1,8,38,0.08,51,6,80,Low Risk
+Ride Share Driver,30213,6,4.4,0.38,320,97,4,3,39,0.5,71,0,61,Moderate Risk
+Delivery Partner,46011,7,4.3,0.04,447,91,3,3,49,0.08,39,6,75,Low Risk
+Delivery Partner,36626,9,4.5,0.11,485,76,3,2,6,0.08,85,3,65,Moderate Risk
+Delivery Partner,39544,8,3.9,0.31,107,59,4,5,40,0.58,20,4,43,High Risk
+Delivery Partner,33434,9,3.8,0.05,390,95,5,3,12,0.26,77,7,61,Moderate Risk
+Delivery Partner,34378,6,3.8,0.04,322,91,1,3,53,0.78,63,3,50,Moderate Risk
+Freelancer,100920,8,4.3,0.15,187,81,4,6,14,0.03,25,3,66,Moderate Risk
+Ride Share Driver,60603,5,4.5,0.05,454,91,0,8,44,0.36,69,7,82,Low Risk
+Freelancer,54332,2,4.0,0.24,189,75,3,2,55,0.09,91,4,72,Moderate Risk
+Freelancer,59179,4,3.5,0.1,154,74,2,4,10,0.28,39,12,77,Low Risk
+Ride Share Driver,60379,6,4.5,0.36,69,60,0,7,54,0.8,33,5,60,Moderate Risk
+Delivery Partner,39930,8,3.9,0.32,451,72,5,1,20,0.71,24,11,53,Moderate Risk
+Ride Share Driver,48797,7,4.0,0.28,359,83,0,1,15,0.04,60,10,100,Low Risk
+Ride Share Driver,28767,5,4.3,0.25,366,89,4,10,31,0.45,59,4,61,Moderate Risk
+Freelancer,92487,5,4.4,0.35,153,72,1,7,7,0.52,53,0,62,Moderate Risk
+Ride Share Driver,68613,5,3.7,0.1,366,78,3,7,58,0.17,99,6,67,Moderate Risk
+Delivery Partner,23744,6,5.0,0.35,156,80,5,1,41,0.12,64,5,73,Moderate Risk
+Delivery Partner,25069,9,5.0,0.32,264,56,5,1,10,0.72,90,1,27,High Risk
+Ride Share Driver,48226,7,3.7,0.3,128,89,2,4,10,0.78,99,10,71,Moderate Risk
+Ride Share Driver,62138,6,3.5,0.23,332,82,0,5,48,0.79,90,6,65,Moderate Risk
+Ride Share Driver,26591,7,3.7,0.11,306,70,2,5,39,0.63,46,5,48,High Risk
+Ride Share Driver,46417,6,4.6,0.18,40,51,1,4,28,0.53,97,4,50,Moderate Risk
+Content Creator,125598,5,3.6,0.32,109,67,1,8,30,0.28,97,7,80,Low Risk
+Ride Share Driver,22169,5,4.1,0.02,315,96,2,7,37,0.14,63,4,75,Low Risk
+Delivery Partner,26315,6,4.4,0.31,131,82,3,9,55,0.06,52,10,93,Low Risk
+Delivery Partner,41173,9,5.0,0.1,320,86,1,7,3,0.55,52,1,58,Moderate Risk
+Delivery Partner,24344,6,3.9,0.07,96,83,2,10,50,0.63,63,5,53,Moderate Risk
+Delivery Partner,38538,8,4.0,0.06,196,69,0,1,43,0.66,39,11,66,Moderate Risk
+Delivery Partner,19936,6,5.0,0.02,362,84,2,7,15,0.73,55,0,39,High Risk
+Delivery Partner,27493,9,5.0,0.21,167,100,2,1,21,0.7,26,4,66,Moderate Risk
+Delivery Partner,33848,6,4.4,0.1,120,99,4,7,52,0.8,51,5,46,High Risk
+Delivery Partner,26556,7,4.1,0.4,265,67,1,10,37,0.2,86,6,86,Low Risk
+Freelancer,91118,4,4.0,0.23,136,95,3,8,56,0.61,58,1,55,Moderate Risk
+Delivery Partner,27569,9,4.7,0.06,111,73,3,9,12,0.47,43,0,40,High Risk
+Ride Share Driver,24857,5,4.3,0.28,420,57,4,3,4,0.21,89,5,58,Moderate Risk
+Ride Share Driver,36766,8,3.9,0.36,47,79,5,4,47,0.79,73,2,38,High Risk
+Content Creator,10138,7,4.1,0.3,444,93,3,4,9,0.72,57,4,59,Moderate Risk
+Delivery Partner,37840,9,4.5,0.04,469,59,2,9,39,0.1,93,11,74,Moderate Risk
+Ride Share Driver,35996,7,3.7,0.36,44,72,4,7,42,0.02,99,10,86,Low Risk
+Content Creator,36762,4,3.8,0.32,77,98,0,3,28,0.55,94,12,100,Low Risk
+Freelancer,70568,4,4.8,0.07,316,60,1,10,23,0.48,51,1,46,High Risk
+Freelancer,115455,7,4.4,0.03,153,51,1,5,45,0.75,64,0,26,High Risk
+Delivery Partner,24905,8,4.0,0.23,350,75,1,7,40,0.19,80,0,69,Moderate Risk
+Delivery Partner,34212,9,3.8,0.07,268,85,2,8,44,0.07,89,12,90,Low Risk
+Freelancer,105768,6,4.3,0.34,57,82,0,1,22,0.21,72,10,100,Low Risk
+Content Creator,128418,7,4.9,0.15,409,96,4,2,24,0.02,70,3,76,Low Risk
+Ride Share Driver,21140,6,4.6,0.37,448,62,4,7,51,0.03,95,9,80,Low Risk
+Ride Share Driver,21708,7,4.8,0.23,94,89,1,2,58,0.73,75,12,80,Low Risk
+Delivery Partner,46308,7,4.7,0.08,161,74,0,7,26,0.28,46,1,66,Moderate Risk
+Freelancer,31859,6,4.7,0.06,341,53,0,9,30,0.33,57,0,51,Moderate Risk
+Delivery Partner,31331,6,4.9,0.23,187,91,0,2,33,0.01,81,5,100,Low Risk
+Delivery Partner,33883,7,4.0,0.31,278,68,3,7,16,0.22,37,3,65,Moderate Risk
+Ride Share Driver,57529,8,3.6,0.31,392,67,3,4,22,0.64,83,9,59,Moderate Risk
+Ride Share Driver,49535,6,4.4,0.12,374,86,1,2,49,0.49,96,12,82,Low Risk
+Delivery Partner,25929,9,4.1,0.09,244,79,0,7,57,0.6,49,11,75,Low Risk
+Delivery Partner,46064,7,4.7,0.02,171,68,5,5,50,0.36,68,6,42,High Risk
+Ride Share Driver,40878,7,4.3,0.27,38,72,0,1,43,0.25,60,10,93,Low Risk
+Delivery Partner,20808,8,4.5,0.04,165,65,4,5,18,0.39,32,5,43,High Risk
+Ride Share Driver,50386,5,5.0,0.17,467,50,4,3,7,0.26,53,4,46,High Risk
+Delivery Partner,46753,9,4.8,0.24,260,61,1,7,50,0.67,44,9,63,Moderate Risk
+Ride Share Driver,26142,7,4.4,0.38,391,73,5,6,26,0.24,85,11,77,Low Risk
+Ride Share Driver,53132,7,3.8,0.13,400,83,0,8,8,0.53,37,12,83,Low Risk
+Delivery Partner,33688,9,4.8,0.11,363,57,5,5,6,0.11,24,11,61,Moderate Risk
+Delivery Partner,26016,6,4.8,0.27,256,67,1,2,30,0.55,38,11,77,Low Risk
+Delivery Partner,21935,9,3.9,0.25,54,97,4,9,39,0.73,61,11,67,Moderate Risk
+Delivery Partner,34165,8,4.3,0.14,209,54,4,8,23,0.49,37,1,30,High Risk
+Content Creator,34045,5,4.9,0.37,20,75,3,6,32,0.45,51,4,66,Moderate Risk
+Delivery Partner,37151,7,4.4,0.34,172,79,1,10,22,0.77,40,8,70,Moderate Risk
+Freelancer,51188,7,4.6,0.1,448,62,1,7,42,0.5,29,8,61,Moderate Risk
+Delivery Partner,38021,7,4.0,0.1,452,68,0,9,43,0.21,56,1,66,Moderate Risk
+Freelancer,92949,6,4.0,0.21,145,78,0,7,57,0.23,68,6,85,Low Risk
+Freelancer,119641,2,3.9,0.31,364,52,3,3,45,0.56,32,9,55,Moderate Risk
+Ride Share Driver,69847,6,4.9,0.03,419,75,2,6,9,0.59,74,3,46,High Risk
+Ride Share Driver,47810,7,3.8,0.28,245,89,5,7,31,0.24,36,12,80,Low Risk
+Ride Share Driver,39225,5,3.6,0.26,240,61,2,2,7,0.28,28,12,78,Low Risk
+Delivery Partner,43117,8,3.9,0.1,422,51,2,3,9,0.79,63,2,26,High Risk
+Content Creator,130356,5,4.5,0.28,426,60,1,4,13,0.08,97,10,90,Low Risk
+Freelancer,23068,5,4.5,0.38,230,93,5,10,58,0.32,65,0,62,Moderate Risk
+Content Creator,21390,1,4.7,0.03,44,77,1,6,3,0.05,27,2,71,Moderate Risk
+Delivery Partner,28433,8,3.9,0.13,35,67,5,1,35,0.66,56,10,41,High Risk
+Freelancer,92064,3,3.6,0.18,201,62,4,9,33,0.07,38,8,65,Moderate Risk
+Content Creator,58511,4,3.8,0.36,348,86,1,5,21,0.54,82,8,83,Low Risk
+Delivery Partner,19381,8,4.2,0.39,148,71,1,7,31,0.05,65,6,93,Low Risk
+Delivery Partner,42322,7,4.8,0.18,61,61,1,9,52,0.54,90,2,52,Moderate Risk
+Freelancer,25207,3,3.5,0.3,422,51,3,9,34,0.67,45,12,55,Moderate Risk
+Ride Share Driver,38514,7,4.8,0.22,437,86,1,1,32,0.32,65,2,75,Low Risk
+Freelancer,85721,2,4.3,0.22,355,56,0,1,57,0.42,65,3,62,Moderate Risk
+Delivery Partner,42297,9,4.6,0.12,255,75,0,3,35,0.32,94,6,77,Low Risk
+Freelancer,119769,3,4.6,0.09,379,75,5,6,15,0.24,33,6,54,Moderate Risk
+Delivery Partner,48903,8,4.1,0.12,458,73,4,2,56,0.64,82,11,52,Moderate Risk
+Delivery Partner,39793,8,4.3,0.23,421,61,3,10,32,0.22,91,11,74,Moderate Risk
+Delivery Partner,35622,7,4.0,0.02,53,65,5,1,6,0.58,22,1,20,High Risk
+Freelancer,118990,4,3.5,0.36,364,72,0,1,45,0.16,47,11,100,Low Risk
+Freelancer,38782,6,4.8,0.07,400,89,3,5,21,0.2,48,4,68,Moderate Risk
+Ride Share Driver,35592,6,5.0,0.1,64,58,3,4,33,0.27,37,6,55,Moderate Risk
+Ride Share Driver,54324,7,4.0,0.21,153,81,4,1,32,0.47,54,6,57,Moderate Risk
+Freelancer,104400,2,3.7,0.29,40,64,3,4,52,0.36,96,5,60,Moderate Risk
+Ride Share Driver,30576,7,4.3,0.05,141,86,1,3,19,0.6,95,9,68,Moderate Risk
+Freelancer,53333,3,4.4,0.13,89,62,3,2,33,0.17,66,9,68,Moderate Risk
+Ride Share Driver,21589,8,4.5,0.39,371,54,4,9,28,0.01,24,11,82,Low Risk
+Ride Share Driver,32145,6,4.2,0.11,380,60,5,1,31,0.62,94,7,33,High Risk
+Ride Share Driver,36237,8,4.0,0.13,67,59,4,7,21,0.66,78,2,27,High Risk
+Delivery Partner,49566,7,4.5,0.34,58,62,4,4,54,0.05,94,0,60,Moderate Risk
+Freelancer,99227,6,4.9,0.03,306,90,0,5,34,0.49,78,2,66,Moderate Risk
+Ride Share Driver,25585,8,4.2,0.19,29,95,1,10,15,0.3,66,10,93,Low Risk
+Delivery Partner,30237,7,4.0,0.16,49,99,0,5,14,0.64,32,1,67,Moderate Risk
+Freelancer,60409,8,3.6,0.13,263,64,5,1,19,0.7,97,1,20,High Risk
+Ride Share Driver,34027,5,4.0,0.12,293,91,2,6,43,0.68,52,1,49,High Risk
+Ride Share Driver,43545,5,3.6,0.05,463,56,5,9,15,0.62,81,4,21,High Risk
+Content Creator,36917,1,3.1,0.13,107,89,1,2,6,0.22,98,12,92,Low Risk
+Ride Share Driver,34087,5,4.0,0.03,263,77,3,7,52,0.65,35,0,32,High Risk
+Delivery Partner,33275,6,3.9,0.31,400,81,4,6,9,0.43,63,9,70,Moderate Risk
+Content Creator,116122,1,3.7,0.17,348,84,2,5,37,0.04,77,3,77,Low Risk
+Ride Share Driver,52402,5,4.8,0.18,498,64,1,4,20,0.37,25,9,74,Moderate Risk
+Delivery Partner,22523,9,4.7,0.36,34,97,0,4,34,0.75,34,4,79,Low Risk
+Delivery Partner,33246,8,4.3,0.27,23,85,4,6,38,0.71,23,1,43,High Risk
+Freelancer,17224,7,4.1,0.01,210,70,5,4,26,0.08,75,4,48,High Risk
+Ride Share Driver,64452,5,4.5,0.38,187,55,0,5,18,0.6,83,9,74,Moderate Risk
+Ride Share Driver,59129,5,4.1,0.1,28,50,1,6,28,0.64,87,3,39,High Risk
+Freelancer,107122,2,4.6,0.05,128,53,1,5,55,0.22,53,7,63,Moderate Risk
+Freelancer,86854,8,3.9,0.31,156,60,5,7,51,0.38,75,0,38,High Risk
+Delivery Partner,18234,6,4.0,0.21,173,93,2,9,9,0.57,51,11,79,Low Risk
+Delivery Partner,37991,9,4.0,0.18,407,75,5,10,32,0.35,28,4,48,High Risk
+Delivery Partner,46099,8,4.9,0.11,228,86,3,7,59,0.09,82,10,85,Low Risk
+Freelancer,86368,6,4.2,0.22,291,72,0,7,53,0.56,91,11,80,Low Risk
+Delivery Partner,23842,9,5.0,0.12,162,78,2,4,56,0.73,97,9,59,Moderate Risk
+Ride Share Driver,65968,5,4.2,0.36,118,70,4,1,59,0.52,52,0,46,High Risk
+Freelancer,95742,5,4.8,0.09,396,97,3,8,6,0.62,40,9,66,Moderate Risk
+Freelancer,81914,8,3.7,0.35,327,94,2,4,14,0.29,74,9,93,Low Risk
+Delivery Partner,25935,7,4.7,0.23,88,94,0,1,28,0.15,95,3,93,Low Risk
+Freelancer,69120,5,4.8,0.33,266,98,1,5,58,0.51,76,7,89,Low Risk
+Delivery Partner,31324,7,4.5,0.29,280,76,4,8,24,0.26,21,0,56,Moderate Risk
+Freelancer,41654,3,3.8,0.28,295,88,5,4,13,0.69,32,10,58,Moderate Risk
+Delivery Partner,38808,7,4.4,0.14,98,89,0,8,43,0.1,23,1,83,Low Risk
+Ride Share Driver,54773,5,4.7,0.1,165,62,3,8,12,0.35,69,0,41,High Risk
+Freelancer,98692,3,4.1,0.09,130,72,3,3,51,0.32,67,10,66,Moderate Risk
+Delivery Partner,43351,8,4.0,0.34,277,65,1,9,19,0.75,97,6,60,Moderate Risk
+Delivery Partner,41554,9,5.0,0.33,112,79,1,3,21,0.12,49,1,83,Low Risk
+Freelancer,73283,6,4.5,0.18,32,53,4,1,27,0.01,48,0,49,High Risk
+Freelancer,77261,7,4.4,0.06,279,89,5,2,58,0.19,27,11,71,Moderate Risk
+Ride Share Driver,64283,7,4.1,0.16,445,65,4,6,19,0.66,31,5,37,High Risk
+Freelancer,88016,2,3.7,0.25,128,80,1,10,24,0.17,60,5,83,Low Risk
+Ride Share Driver,54441,5,3.9,0.19,349,91,1,2,26,0.19,45,9,93,Low Risk
+Delivery Partner,20100,7,3.8,0.31,208,74,3,6,45,0.1,69,1,68,Moderate Risk
+Delivery Partner,38132,7,4.2,0.4,114,93,1,1,28,0.57,21,0,72,Moderate Risk
+Delivery Partner,28197,6,3.9,0.08,124,61,2,1,46,0.06,74,9,73,Moderate Risk
+Content Creator,41881,3,4.0,0.19,27,75,0,5,56,0.26,75,2,74,Moderate Risk
+Ride Share Driver,54926,6,4.3,0.18,86,86,1,10,18,0.23,33,9,89,Low Risk
+Ride Share Driver,56021,8,3.5,0.13,210,97,4,9,44,0.44,25,4,57,Moderate Risk
+Ride Share Driver,51128,8,3.6,0.09,385,82,5,8,36,0.58,100,5,40,High Risk
+Content Creator,25193,6,4.5,0.04,275,77,5,3,42,0.43,80,2,36,High Risk
+Delivery Partner,22214,9,4.1,0.36,28,58,5,3,29,0.74,31,8,42,High Risk
+Ride Share Driver,30704,8,3.7,0.17,497,61,2,1,17,0.76,32,10,51,Moderate Risk
+Ride Share Driver,23866,6,3.5,0.2,136,54,4,3,4,0.29,38,4,45,High Risk
+Ride Share Driver,25818,7,4.7,0.37,286,77,2,1,44,0.62,63,12,81,Low Risk
+Delivery Partner,44273,6,4.1,0.31,118,84,1,8,45,0.59,78,1,64,Moderate Risk
+Freelancer,35447,6,4.0,0.06,317,54,0,1,59,0.71,56,9,53,Moderate Risk
+Content Creator,65350,2,3.4,0.23,416,83,5,5,29,0.36,44,5,55,Moderate Risk
+Ride Share Driver,40093,8,3.5,0.18,183,95,4,9,4,0.42,35,11,74,Moderate Risk
+Freelancer,70668,5,4.3,0.32,395,83,5,7,10,0.33,57,7,67,Moderate Risk
+Content Creator,74110,3,3.0,0.29,160,62,2,4,25,0.68,62,10,59,Moderate Risk
+Freelancer,19426,2,4.4,0.28,287,88,3,9,31,0.18,33,5,80,Low Risk
+Delivery Partner,46151,9,4.0,0.14,56,91,1,9,3,0.19,25,3,79,Low Risk
+Ride Share Driver,65671,7,4.6,0.32,93,94,0,2,47,0.3,42,5,95,Low Risk
+Ride Share Driver,22204,6,4.4,0.03,92,97,1,10,2,0.18,79,7,86,Low Risk
+Ride Share Driver,53870,8,4.2,0.07,327,63,3,10,57,0.45,31,7,49,High Risk
+Freelancer,73585,5,4.9,0.14,218,60,0,6,25,0.11,32,12,91,Low Risk
+Content Creator,108934,5,4.1,0.04,149,91,3,4,49,0.26,25,9,73,Moderate Risk
+Content Creator,84707,2,4.3,0.1,265,87,1,8,6,0.73,82,1,50,Moderate Risk
+Ride Share Driver,69429,5,3.8,0.33,331,53,2,7,26,0.33,57,7,66,Moderate Risk
+Delivery Partner,31401,9,4.5,0.38,79,82,1,7,8,0.6,69,5,75,Low Risk
+Content Creator,87240,2,4.7,0.13,298,56,1,10,35,0.09,71,1,62,Moderate Risk
+Freelancer,111762,6,3.9,0.11,122,90,1,9,27,0.2,59,0,70,Moderate Risk
+Delivery Partner,26652,6,4.4,0.12,315,57,4,5,25,0.65,27,5,32,High Risk
+Content Creator,17006,4,4.3,0.12,339,86,3,6,18,0.61,80,12,67,Moderate Risk
+Freelancer,80344,2,4.9,0.02,360,100,3,1,54,0.31,27,6,70,Moderate Risk
+Ride Share Driver,52983,6,4.2,0.37,170,59,5,6,1,0.76,53,9,44,High Risk
+Ride Share Driver,38990,7,4.6,0.09,176,92,3,2,48,0.73,98,4,48,High Risk
+Ride Share Driver,56081,6,3.7,0.17,225,64,5,6,39,0.77,79,9,35,High Risk
+Delivery Partner,44628,9,4.6,0.01,493,87,4,9,3,0.34,76,7,59,Moderate Risk
+Delivery Partner,32794,9,4.0,0.34,198,64,2,8,55,0.16,65,10,86,Low Risk
+Freelancer,91721,7,4.3,0.3,216,54,5,9,4,0.5,41,12,55,Moderate Risk
+Delivery Partner,32350,9,4.4,0.38,242,78,1,10,41,0.55,59,11,87,Low Risk
+Delivery Partner,24420,7,3.9,0.31,108,68,2,8,37,0.1,64,8,84,Low Risk
+Ride Share Driver,64605,6,4.6,0.13,306,100,4,3,51,0.63,74,3,52,Moderate Risk
+Ride Share Driver,51433,6,4.1,0.11,453,59,3,8,15,0.01,70,6,65,Moderate Risk
+Content Creator,77293,3,3.3,0.28,295,61,5,6,8,0.39,24,7,50,Moderate Risk
+Delivery Partner,19116,9,4.1,0.15,255,53,1,6,38,0.26,32,12,76,Low Risk
+Delivery Partner,45882,9,4.8,0.23,202,80,0,6,50,0.59,47,5,72,Moderate Risk
+Freelancer,108935,4,4.7,0.01,228,67,0,3,19,0.25,99,1,60,Moderate Risk
+Ride Share Driver,62506,7,3.9,0.03,149,65,2,10,56,0.66,81,6,42,High Risk
+Delivery Partner,27797,6,4.0,0.22,172,89,3,1,47,0.48,43,12,78,Low Risk
+Ride Share Driver,45851,8,4.1,0.23,32,85,0,4,26,0.64,26,8,78,Low Risk
+Delivery Partner,25866,7,4.4,0.3,141,74,2,10,39,0.79,57,4,52,Moderate Risk
+Delivery Partner,23451,8,4.4,0.06,378,72,4,6,10,0.54,56,1,33,High Risk
+Ride Share Driver,59954,7,3.6,0.21,239,61,2,10,38,0.79,87,3,38,High Risk
+Ride Share Driver,50873,6,3.8,0.09,125,83,2,2,14,0.02,61,2,72,Moderate Risk
+Content Creator,35372,3,3.7,0.05,394,85,2,7,49,0.27,24,3,63,Moderate Risk
+Ride Share Driver,54064,7,4.1,0.17,89,86,1,7,41,0.09,83,9,94,Low Risk
+Ride Share Driver,22895,6,5.0,0.07,214,52,2,4,19,0.21,69,6,58,Moderate Risk
+Ride Share Driver,28711,5,4.8,0.1,205,58,5,4,30,0.67,34,9,35,High Risk
+Delivery Partner,28717,9,4.2,0.13,118,67,2,1,5,0.03,92,7,76,Low Risk
+Freelancer,78069,2,4.2,0.11,101,92,1,2,55,0.42,72,0,63,Moderate Risk
+Delivery Partner,49312,8,5.0,0.04,94,84,1,9,31,0.45,44,12,80,Low Risk
+Content Creator,135681,6,4.7,0.05,393,83,4,10,7,0.45,28,7,54,Moderate Risk
+Delivery Partner,45691,6,4.8,0.09,359,90,3,8,19,0.38,57,4,62,Moderate Risk
+Ride Share Driver,38020,8,4.9,0.03,211,63,0,8,31,0.63,41,11,65,Moderate Risk
+Delivery Partner,22009,8,4.6,0.25,344,53,0,9,52,0.11,68,6,81,Low Risk
+Content Creator,138727,2,3.6,0.12,486,78,2,7,58,0.25,87,10,77,Low Risk
+Ride Share Driver,38753,7,4.6,0.12,233,90,4,9,39,0.49,34,10,66,Moderate Risk
+Ride Share Driver,25722,6,4.1,0.14,334,94,2,10,24,0.55,84,0,55,Moderate Risk
+Delivery Partner,29128,6,4.4,0.27,463,99,0,2,34,0.32,73,1,86,Low Risk
+Freelancer,98596,6,3.7,0.35,486,64,1,6,57,0.7,49,0,49,High Risk
+Delivery Partner,41816,7,4.3,0.31,401,77,3,3,23,0.33,39,4,67,Moderate Risk
+Freelancer,40242,3,5.0,0.29,386,91,4,6,48,0.32,52,5,72,Moderate Risk
+Delivery Partner,38127,6,4.7,0.2,337,65,1,3,45,0.03,96,9,89,Low Risk
+Delivery Partner,38208,8,4.3,0.28,163,61,3,8,40,0.44,26,8,62,Moderate Risk
+Delivery Partner,18628,7,4.9,0.23,403,54,4,4,6,0.57,27,7,44,High Risk
+Ride Share Driver,23696,7,4.4,0.09,235,83,4,10,38,0.09,47,6,68,Moderate Risk
+Ride Share Driver,39149,5,4.7,0.09,380,91,0,6,41,0.24,64,11,97,Low Risk
+Delivery Partner,26307,6,4.5,0.13,343,50,1,9,36,0.63,92,4,43,High Risk
+Freelancer,81641,5,4.8,0.37,34,88,4,2,27,0.29,99,2,70,Moderate Risk
+Ride Share Driver,35417,6,4.9,0.22,236,81,5,2,11,0.19,93,8,70,Moderate Risk
+Ride Share Driver,52598,6,4.8,0.3,458,75,4,7,5,0.54,30,12,70,Moderate Risk
+Ride Share Driver,29256,5,3.8,0.15,54,66,3,2,57,0.16,50,4,60,Moderate Risk
+Ride Share Driver,45792,5,3.7,0.17,202,97,0,2,17,0.72,31,2,65,Moderate Risk
+Ride Share Driver,54540,5,4.9,0.06,289,76,2,4,52,0.08,97,2,67,Moderate Risk
+Delivery Partner,30996,9,4.3,0.08,452,73,0,9,7,0.57,70,2,55,Moderate Risk
+Delivery Partner,31234,6,4.4,0.33,486,84,2,8,27,0.4,63,5,76,Low Risk
+Freelancer,91057,4,3.9,0.24,377,95,1,2,47,0.7,69,0,59,Moderate Risk
+Content Creator,109003,7,4.8,0.14,119,91,1,8,57,0.1,36,10,98,Low Risk
+Ride Share Driver,59065,8,4.1,0.32,26,88,4,4,15,0.54,54,3,58,Moderate Risk
+Delivery Partner,22557,9,4.8,0.11,49,75,5,2,46,0.46,20,12,58,Moderate Risk
+Ride Share Driver,28275,7,4.3,0.39,486,98,1,10,13,0.38,48,7,96,Low Risk
+Ride Share Driver,55948,5,3.9,0.14,324,87,4,7,11,0.39,70,2,52,Moderate Risk
+Delivery Partner,27583,8,4.5,0.14,492,72,0,6,60,0.58,83,4,62,Moderate Risk
+Delivery Partner,31869,9,4.6,0.13,163,71,1,10,45,0.75,23,1,43,High Risk
+Freelancer,35954,5,3.9,0.06,130,53,0,5,26,0.07,47,1,62,Moderate Risk
+Freelancer,60026,6,4.2,0.05,251,98,0,1,22,0.02,35,10,100,Low Risk
+Delivery Partner,43966,9,4.8,0.26,198,58,5,2,28,0.64,82,12,50,Moderate Risk
+Delivery Partner,32270,6,4.7,0.35,91,53,1,8,24,0.09,95,6,82,Low Risk
+Delivery Partner,32300,9,4.2,0.32,229,56,0,1,29,0.79,72,9,64,Moderate Risk
+Freelancer,99995,4,4.3,0.07,239,72,5,3,9,0.5,36,2,32,High Risk
+Delivery Partner,45056,8,3.9,0.22,99,51,5,2,42,0.52,59,4,32,High Risk
+Delivery Partner,41155,8,4.9,0.05,102,98,1,5,4,0.16,32,2,79,Low Risk
+Freelancer,52726,7,4.3,0.03,61,73,5,4,49,0.19,71,5,49,High Risk
+Delivery Partner,22776,6,4.5,0.27,292,89,1,7,46,0.53,77,12,90,Low Risk
+Freelancer,105811,7,4.0,0.22,210,80,1,5,56,0.73,56,9,68,Moderate Risk
+Delivery Partner,46472,7,4.0,0.04,192,96,2,8,18,0.79,98,2,45,High Risk
+Delivery Partner,31926,7,3.8,0.02,480,80,0,4,43,0.16,95,7,81,Low Risk
+Delivery Partner,38691,8,4.9,0.4,26,96,3,6,16,0.11,80,1,85,Low Risk
+Freelancer,105453,8,3.8,0.02,174,89,1,4,33,0.05,98,2,75,Low Risk
+Freelancer,100029,4,4.5,0.18,29,97,0,2,29,0.69,53,7,78,Low Risk
+Freelancer,75142,2,4.8,0.21,53,100,5,1,39,0.24,89,7,74,Moderate Risk
+Ride Share Driver,47990,6,4.0,0.06,55,92,4,1,60,0.0,36,0,62,Moderate Risk
+Freelancer,50517,6,4.6,0.08,428,83,1,8,10,0.18,39,7,82,Low Risk
+Delivery Partner,48106,8,4.0,0.15,25,73,5,4,9,0.27,92,9,59,Moderate Risk
+Delivery Partner,38975,8,5.0,0.31,427,98,5,5,59,0.79,78,1,45,High Risk
+Freelancer,100731,8,3.8,0.21,421,75,5,8,31,0.42,88,11,61,Moderate Risk
+Delivery Partner,23141,6,4.5,0.26,234,65,5,7,28,0.16,52,6,60,Moderate Risk
+Delivery Partner,36375,6,4.3,0.39,153,96,5,8,60,0.27,97,5,75,Low Risk
+Delivery Partner,30278,8,4.7,0.31,304,62,1,8,57,0.26,36,1,68,Moderate Risk
+Delivery Partner,32367,8,4.1,0.18,145,64,3,6,3,0.02,76,4,66,Moderate Risk
+Delivery Partner,30541,6,4.1,0.18,428,76,2,10,54,0.11,20,6,78,Low Risk
+Ride Share Driver,23551,6,4.2,0.25,458,53,5,2,55,0.56,32,7,39,High Risk
+Ride Share Driver,22832,8,4.9,0.27,356,65,5,6,14,0.1,46,2,56,Moderate Risk
+Freelancer,93958,2,3.7,0.21,193,79,2,1,58,0.18,89,0,65,Moderate Risk
+Freelancer,26108,7,4.7,0.26,171,93,1,1,25,0.28,78,12,100,Low Risk
+Delivery Partner,23310,6,4.0,0.02,350,79,0,3,15,0.61,25,6,61,Moderate Risk
+Delivery Partner,19104,6,4.3,0.18,45,85,4,3,2,0.47,42,12,70,Moderate Risk
+Ride Share Driver,40583,7,4.6,0.12,402,52,4,5,24,0.55,29,4,32,High Risk
+Ride Share Driver,21914,6,4.9,0.06,134,71,0,1,14,0.45,70,4,63,Moderate Risk
+Delivery Partner,18406,7,4.7,0.05,401,98,1,10,48,0.55,38,6,71,Moderate Risk
+Ride Share Driver,56432,6,4.7,0.25,303,71,4,6,7,0.0,70,0,62,Moderate Risk
+Ride Share Driver,38908,5,4.0,0.21,406,99,2,7,36,0.74,87,7,67,Moderate Risk
+Ride Share Driver,57125,8,5.0,0.11,94,99,0,10,50,0.09,61,11,100,Low Risk
+Ride Share Driver,21538,5,4.6,0.19,185,98,3,3,24,0.32,76,9,83,Low Risk
+Delivery Partner,43675,9,4.5,0.2,208,61,1,4,27,0.62,87,4,53,Moderate Risk
+Content Creator,44998,1,3.6,0.09,97,70,0,10,37,0.35,57,7,72,Moderate Risk
+Freelancer,90225,8,4.3,0.26,454,53,4,10,38,0.76,81,9,41,High Risk
+Delivery Partner,49583,9,4.9,0.31,109,80,1,10,30,0.37,26,9,88,Low Risk
+Freelancer,56328,4,4.7,0.32,195,93,2,10,27,0.7,90,4,67,Moderate Risk
+Ride Share Driver,56258,8,4.7,0.24,40,80,1,10,39,0.65,69,11,77,Low Risk
+Freelancer,41400,7,4.8,0.21,73,72,1,3,15,0.78,71,6,57,Moderate Risk
+Freelancer,60814,5,4.3,0.03,203,69,2,1,26,0.74,45,9,48,High Risk
+Ride Share Driver,39356,7,4.6,0.12,378,64,5,8,1,0.72,45,2,22,High Risk
+Delivery Partner,35376,6,4.4,0.05,241,72,2,10,56,0.59,38,1,41,High Risk
+Delivery Partner,36624,6,4.7,0.39,334,77,1,10,4,0.29,28,5,86,Low Risk
+Ride Share Driver,20389,8,3.8,0.06,347,65,2,2,29,0.08,80,4,63,Moderate Risk
+Ride Share Driver,21855,6,4.3,0.07,198,86,5,1,57,0.55,39,8,49,High Risk
+Delivery Partner,20763,9,4.0,0.36,295,70,0,8,1,0.78,69,9,73,Moderate Risk
+Delivery Partner,19481,6,4.0,0.38,131,64,2,7,43,0.58,99,3,57,Moderate Risk
+Freelancer,31835,5,3.9,0.31,243,66,2,7,50,0.74,100,10,62,Moderate Risk
+Content Creator,74887,6,4.3,0.01,233,99,1,4,46,0.64,41,2,57,Moderate Risk
+Ride Share Driver,40452,8,3.9,0.01,78,86,0,9,22,0.13,32,8,87,Low Risk
+Delivery Partner,34311,8,4.5,0.16,346,62,3,6,11,0.2,31,7,64,Moderate Risk
+Delivery Partner,42335,8,4.9,0.07,412,68,3,2,10,0.27,29,5,56,Moderate Risk
+Delivery Partner,31521,9,4.6,0.02,128,79,4,1,59,0.13,84,0,50,Moderate Risk
+Content Creator,82827,1,4.1,0.19,404,94,2,1,17,0.47,49,9,79,Low Risk
+Delivery Partner,37581,6,4.2,0.38,176,67,2,9,36,0.78,27,12,69,Moderate Risk
+Ride Share Driver,52026,8,4.4,0.14,210,63,0,4,56,0.61,40,11,70,Moderate Risk
+Delivery Partner,37552,6,4.7,0.27,219,85,5,5,47,0.34,41,10,72,Moderate Risk
+Ride Share Driver,26989,5,3.6,0.26,331,85,3,3,26,0.0,37,0,73,Moderate Risk
+Freelancer,46802,2,3.9,0.11,215,69,4,4,48,0.25,85,11,65,Moderate Risk
+Freelancer,96938,7,4.0,0.26,54,68,0,8,21,0.42,67,5,73,Moderate Risk
+Delivery Partner,44049,7,4.2,0.09,398,94,2,4,13,0.26,63,12,88,Low Risk
+Delivery Partner,43027,6,4.6,0.06,406,93,3,9,9,0.09,28,2,69,Moderate Risk
+Delivery Partner,21765,8,4.6,0.28,265,56,4,9,11,0.35,86,2,46,High Risk
+Content Creator,85277,7,3.8,0.05,256,93,1,6,11,0.2,73,5,79,Low Risk
+Freelancer,119245,6,3.7,0.4,123,53,3,2,6,0.73,45,12,59,Moderate Risk
+Ride Share Driver,43580,8,3.9,0.08,26,83,4,10,1,0.08,45,2,59,Moderate Risk
+Ride Share Driver,49240,8,3.6,0.24,302,51,0,7,54,0.04,53,12,92,Low Risk
+Freelancer,119092,3,3.8,0.17,20,54,1,9,6,0.0,27,10,83,Low Risk
+Delivery Partner,34901,7,3.9,0.06,238,59,4,6,13,0.26,29,9,53,Moderate Risk
+Content Creator,72120,5,3.4,0.02,483,81,4,3,22,0.53,67,5,42,High Risk
+Ride Share Driver,34256,7,4.3,0.25,249,91,2,7,56,0.58,74,4,66,Moderate Risk
+Ride Share Driver,48230,7,4.4,0.32,474,90,5,5,31,0.36,73,3,61,Moderate Risk
+Ride Share Driver,42625,5,4.6,0.34,191,62,3,1,22,0.55,97,7,59,Moderate Risk
+Delivery Partner,23633,9,4.5,0.2,106,88,2,3,37,0.29,59,1,68,Moderate Risk
+Delivery Partner,40693,7,4.0,0.31,60,54,1,5,47,0.53,34,11,71,Moderate Risk
+Freelancer,112718,8,3.8,0.27,142,59,5,7,27,0.03,100,10,69,Moderate Risk
+Delivery Partner,19518,7,3.9,0.29,350,59,4,3,50,0.31,37,6,56,Moderate Risk
+Ride Share Driver,22600,6,4.5,0.2,317,87,2,6,52,0.63,42,3,58,Moderate Risk
+Delivery Partner,47074,9,3.9,0.26,392,76,5,5,14,0.64,81,1,35,High Risk
+Ride Share Driver,36193,6,4.5,0.32,436,100,3,1,47,0.57,65,6,74,Moderate Risk
+Delivery Partner,33253,8,4.2,0.17,197,70,1,10,58,0.16,58,12,90,Low Risk
+Ride Share Driver,21306,6,4.2,0.32,82,57,0,6,5,0.2,34,0,70,Moderate Risk
+Freelancer,109767,7,4.0,0.24,184,50,2,8,58,0.8,72,3,34,High Risk
+Delivery Partner,22195,8,4.5,0.07,206,77,1,1,36,0.08,83,8,84,Low Risk
+Ride Share Driver,49084,8,4.9,0.02,402,98,0,2,32,0.14,82,3,85,Low Risk
+Ride Share Driver,62137,5,3.7,0.15,228,88,2,4,34,0.1,99,11,92,Low Risk
+Freelancer,30438,4,4.6,0.22,246,63,1,2,7,0.26,35,12,85,Low Risk
+Content Creator,135844,3,4.5,0.34,451,70,1,9,42,0.17,89,2,78,Low Risk
+Freelancer,108027,3,4.1,0.06,408,79,5,10,48,0.4,85,9,53,Moderate Risk
+Delivery Partner,40508,9,4.6,0.32,67,70,2,8,10,0.38,32,9,78,Low Risk
+Delivery Partner,22396,9,4.9,0.35,243,98,1,8,50,0.72,66,1,70,Moderate Risk
+Delivery Partner,41688,9,4.9,0.07,22,58,4,4,17,0.03,28,2,50,Moderate Risk
+Ride Share Driver,60585,8,4.6,0.34,391,66,2,5,30,0.26,82,0,64,Moderate Risk
+Delivery Partner,20093,7,4.7,0.4,194,54,1,4,21,0.48,53,9,75,Low Risk
+Ride Share Driver,50981,8,4.5,0.29,465,80,5,9,60,0.48,100,7,58,Moderate Risk
+Ride Share Driver,57705,6,4.6,0.32,118,89,0,2,13,0.38,48,0,80,Low Risk
+Delivery Partner,30977,8,4.9,0.4,135,87,0,8,1,0.65,56,2,76,Low Risk
+Freelancer,65516,8,4.7,0.25,289,92,4,2,1,0.05,62,2,75,Low Risk
+Delivery Partner,47038,8,4.8,0.13,466,68,2,1,47,0.65,83,12,63,Moderate Risk
+Delivery Partner,20426,6,4.3,0.34,387,85,5,10,33,0.4,43,1,54,Moderate Risk
+Freelancer,83498,5,4.4,0.25,272,99,1,3,38,0.11,90,4,94,Low Risk
+Ride Share Driver,55192,5,3.9,0.24,336,82,1,9,25,0.71,53,9,70,Moderate Risk
+Freelancer,25451,6,3.6,0.11,434,62,0,3,26,0.52,67,2,52,Moderate Risk
+Ride Share Driver,44944,5,4.8,0.3,114,63,5,9,13,0.13,31,2,55,Moderate Risk
+Delivery Partner,48175,9,3.8,0.04,292,82,4,7,59,0.03,42,7,68,Moderate Risk
+Freelancer,118998,2,3.8,0.37,399,78,0,10,28,0.11,98,3,92,Low Risk
+Freelancer,117468,4,3.9,0.14,43,92,0,1,33,0.49,32,3,72,Moderate Risk
+Freelancer,25442,6,4.1,0.06,135,98,4,10,37,0.14,64,2,64,Moderate Risk
+Delivery Partner,38285,7,4.5,0.18,170,85,2,5,41,0.18,84,10,88,Low Risk
+Ride Share Driver,21551,6,4.1,0.03,357,93,1,9,30,0.02,66,0,75,Low Risk
+Ride Share Driver,46249,6,4.7,0.28,69,59,2,3,57,0.58,77,7,59,Moderate Risk
+Delivery Partner,22370,9,4.9,0.36,225,80,5,9,49,0.65,24,0,42,High Risk
+Content Creator,24924,6,3.8,0.34,354,55,3,5,48,0.64,96,6,48,High Risk
+Delivery Partner,18869,6,4.1,0.06,98,50,3,9,8,0.1,24,4,50,Moderate Risk
+Content Creator,120317,3,4.5,0.06,89,56,3,10,49,0.72,79,3,27,High Risk
+Ride Share Driver,43248,5,3.8,0.33,46,76,4,6,47,0.54,40,3,52,Moderate Risk
